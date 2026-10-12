@@ -1,137 +1,136 @@
-filing_id,registration_number,officer_local_ref,full_name,birth_year_or_age_band,nationality_or_region,role_title,appointment_date,cessation_date,filing_date,service_address,filing_status
-FLG-000001,REG-NDH-01015,OFR-20001,Edward Vann,1815,Nordhaven,Industrial and shipping adviser,1840-01-01,1888-12-31,1840-03-09,Nordhaven Union,historical
-FLG-000002,REG-VLN-01016,OFR-20002,Emil Warden,1871,Valennan,Commercial and medical investor,1895-01-01,1943-12-31,1895-01-13,Valenne Republic,historical
-FLG-000003,REG-NDH-01017,OFR-20003,Adrian Vosmere,1920–1929,Nordhaven,Biotechnology and logistics executive,1952-01-01,1991-12-31,1952-01-16,Nordhaven Union,historical
-FLG-000004,REG-VLN-01001,OFR-20004,Dr. Elias Voss,1961,Valennan,Executive chair of Meridian BioLogistics,1996-01-01,,1996-02-15,Meridian Valenne Headquarters,active
-FLG-000005,REG-KNT-01018,OFR-20005,J. Varlan,1862,Kintaran,Natural-history correspondent,1885-01-01,1918-12-31,1885-03-14,Kintara Republic,historical
-FLG-000006,REG-AVL-01019,OFR-20006,Jonah Bell,1900,Aveloran,Conservation researcher,1924-01-01,1963-12-31,1924-02-16,Avelora Federation,historical
-FLG-000007,REG-VLN-01020,OFR-20007,Julien Marot,1940–1949,Valennan,Environmental-policy adviser,1970-01-01,2004-12-31,1970-02-28,Valenne Republic,historical
-FLG-000008,REG-VLN-01006,OFR-20008,Jacob Vale,1971,Valennan,Founder and senior adviser of Vale Strategy Collective,2008-01-01,,2008-01-13,Vale Strategy Valenne Office,active
-FLG-000009,REG-VLN-01002,OFR-20009,Dr. Naima Orrel,1978,Valennan,research director at asterion clinical institute,2001-01-01,,2001-01-15,Asterion Central Clinical Campus,active
-FLG-000010,REG-VLN-01001,OFR-20010,Soren Kade,1968,Nordhaven,Strategic logistics director at Meridian BioLogistics,1999-01-01,,1999-01-26,Meridian Valenne Headquarters,active
-FLG-000011,REG-VLN-01010,OFR-20012,Mara Venn,1980–1989,Valennan,Former research-logistics employee and independent source,2004-01-01,,2004-01-17,Valenne Central District,active
-FLG-000012,REG-VLN-01002,OFR-20013,Dr. Corin Hale,1974,Valennan,Imaging and physiological-signal specialist,2002-01-01,,2002-01-30,Asterion Central Clinical Campus,active
-FLG-000013,REG-TMB-01003,OFR-20015,Niko Verran,1972,Tembaran,Cold-chain route-planning manager,2000-01-01,,2000-03-04,Northstar Tembara Cold-Chain Hub,active
-FLG-000014,REG-AVL-01007,OFR-20016,Selene Aras,1985,Aveloran,Senior ecological analyst,2007-01-01,,2007-03-05,Threshold Earth Avelora Laboratory,active
-FLG-000015,REG-VLN-01021,OFR-20020,Celene Varro,1950–1959,Valennan,Chief executive of Solvane Energy Group,1977-01-01,,1977-02-07,Valenne Republic,active
-FLG-000016,REG-NDH-01022,OFR-20021,Oskar Nivren,1946,Nordhaven,Executive chair of Nivren Maritime Logistics,1973-01-01,,1973-01-12,Nordhaven Union,active
-FLG-000017,REG-VLN-01023,OFR-20022,Adrienne Solva,1958,Valennan,Executive director of Ardena Capital Union,1987-01-01,,1987-02-27,Valenne Republic,active
-FLG-000018,REG-KNT-01024,OFR-20023,Rayan Belen,1952,Kintaran,Chair of Belen Agro-Industries,1981-01-01,,1981-02-03,Kintara Republic,active
-FLG-000019,REG-NDH-01012,OFR-20026,Tomas Pell,1970–1979,Nordhaven,Compliance partner,1998-01-01,,1998-02-20,Nordhaven Maritime District,active
-FLG-000020,REG-AVL-01013,OFR-20027,Anika Dren,1981,Aveloran,Field research coordinator,2006-01-01,,2006-01-14,Eastern Avelora Agricultural Cluster,active
-FLG-000021,REG-VLN-01010,OFR-20028,Jora Menne,1977,Valennan,Investigative journalist,2001-01-01,,2001-02-18,Valenne Central District,active
-FLG-000022,REG-VLN-01005,OFR-20020,Celene Varro,1950,Valennan,Industry council member,1977-05-01,1987-12-31,1977-05-27,Valenne Central District,historical
-FLG-000023,REG-VLN-01021,OFR-20020,Celene Varro,1950–1959,Valennan,Executive board member,1988-01-01,1997-06-30,1988-01-27,Valenne Republic,historical
-FLG-000024,REG-TMB-01003,OFR-20021,Oskar Nivren,1946,Nordhaven,Regional logistics director,1973-03-01,1986-12-31,1973-04-01,Northstar Tembara Cold-Chain Hub,historical
-FLG-000025,REG-NDH-01022,OFR-20021,Oskar Nivren,1946,Nordhaven,Chief operating officer,1987-01-01,1998-12-31,1987-02-23,Nordhaven Union,historical
-FLG-000026,REG-VLN-01004,OFR-20022,Adrienne Solva,1958,Valennan,Investment director,1987-09-01,1997-12-31,1987-10-21,Meridian Valenne Headquarters,historical
-FLG-000027,REG-VLN-01023,OFR-20022,Adrienne Solva,1950–1959,Valennan,Executive committee member,1998-01-01,2008-12-31,1998-01-29,Valenne Republic,historical
-FLG-000028,REG-KNT-01024,OFR-20023,Rayan Belen,1952,Kintaran,Managing director,1993-01-01,2002-12-31,1993-01-25,Kintara Republic,historical
-FLG-000029,REG-VLN-01001,OFR-20029,Nora Essen,1965,Valennan,Operations director,1997-01-01,2016-12-31,1997-02-05,Meridian Valenne Headquarters,historical
-FLG-000030,REG-VLN-01005,OFR-20029,Nora Essen,1965,Valennan,Programme manager,1989-01-01,1996-12-31,1989-01-15,Valenne Central District,historical
-FLG-000031,REG-VLN-01002,OFR-20030,Daria Zaven,1950–1959,Valennan,Clinical research scientist,1990-01-01,,1990-03-10,Asterion Central Clinical Campus,active
-FLG-000032,REG-TMB-01003,OFR-20031,Varen Valek,1966,Tembaran,Regional logistics manager,1997-01-01,,1997-03-07,Northstar Tembara Cold-Chain Hub,active
-FLG-000033,REG-AVL-01007,OFR-20031,Varen Valek,1966,Tembaran,Operations manager,1990-01-01,1996-12-31,1990-02-28,Threshold Earth Avelora Laboratory,historical
-FLG-000034,REG-VLN-01004,OFR-20032,Nadia Cevan,1976,Valennan,Corporate adviser,2004-01-01,,2004-02-03,Meridian Valenne Headquarters,active
-FLG-000035,REG-AVL-01009,OFR-20033,Liora Maren,1980–1989,Kintaran,Deputy director,2011-01-01,2016-12-31,2011-03-13,Eastern Avelora Agricultural Cluster,historical
-FLG-000036,REG-NDH-01011,OFR-20035,Calen Uren,1983,Tembaran,Operations manager,2007-01-01,2006-12-31,2007-03-08,Nordhaven Maritime District,historical
-FLG-000037,REG-VLN-01005,OFR-20036,Ilia Toren,1980,Valennan,Strategic adviser,2010-01-01,,2010-02-17,Valenne Central District,active
-FLG-000038,REG-VLN-01006,OFR-20037,Nora Yorin,1991,Valennan,Policy consultant,2019-01-01,,2019-01-29,Vale Strategy Valenne Office,active
-FLG-000039,REG-AVL-01007,OFR-20038,Nadia Istra,1960–1969,Aveloran,Senior field analyst,1995-01-01,2011-12-31,1995-02-21,Threshold Earth Avelora Laboratory,historical
-FLG-000040,REG-VLN-01008,OFR-20039,Wira Soren,1983,Valennan,Campaign coordinator,2016-01-01,,2016-02-15,Valenne Central District,active
-FLG-000041,REG-VLN-01014,OFR-20039,Wira Soren,1983,Valennan,Senior analyst,2007-01-01,2015-12-31,2007-03-01,Valenne Central District,historical
-FLG-000042,REG-AVL-01009,OFR-20040,Doran Wessen,1966,Aveloran,Pollinator advocate,1996-01-01,,1996-02-15,Eastern Avelora Agricultural Cluster,active
-FLG-000043,REG-VLN-01010,OFR-20041,Yorin Serin,1960–1969,Valennan,Investigative reporter,1990-01-01,,1990-01-18,Valenne Central District,active
-FLG-000044,REG-NDH-01011,OFR-20042,Amina Soren,1972,Nordhaven,Records researcher,2002-01-01,,2002-02-18,Nordhaven Maritime District,active
-FLG-000045,REG-NDH-01012,OFR-20043,Bela Ferran,1993,Nordhaven,Compliance counsel,2020-01-01,,2020-03-07,Nordhaven Maritime District,active
-FLG-000046,REG-VLN-01021,OFR-20043,Bela Ferran,1993,Nordhaven,Operations manager,2017-01-01,2019-12-31,2017-01-26,Valenne Republic,historical
-FLG-000047,REG-AVL-01013,OFR-20045,Jora Vela,1970–1979,Aveloran,Field research coordinator,2006-01-01,,2006-03-13,Eastern Avelora Agricultural Cluster,active
-FLG-000048,REG-VLN-01023,OFR-20045,Jora Vela,1973,Aveloran,Regional adviser,1997-01-01,2005-12-31,1997-03-14,Valenne Republic,historical
-FLG-000049,REG-VLN-01014,OFR-20046,Yana Naven,1978,Valennan,Grant officer,2007-01-01,,2007-03-06,Valenne Central District,active
-FLG-000050,REG-VLN-01002,OFR-20049,Liora Corda,1990,Tembaran,Regional adviser,2014-01-01,2012-12-31,2014-02-23,Asterion Central Clinical Campus,historical
-FLG-000051,REG-VLN-01021,OFR-20050,Calen Lask,1950–1959,Valennan,Corporate affairs director,1987-01-01,,1987-03-11,Valenne Republic,active
-FLG-000052,REG-NDH-01022,OFR-20051,Nadia Aren,1986,Nordhaven,Maritime operations executive,2018-01-01,,2018-02-11,Nordhaven Union,active
-FLG-000053,REG-VLN-01004,OFR-20051,Nadia Aren,1986,Nordhaven,Operations manager,2010-01-01,2017-12-31,2010-02-03,Meridian Valenne Headquarters,historical
-FLG-000054,REG-VLN-01023,OFR-20052,Kellan Toren,1962,Valennan,Regional executive,1996-01-01,,1996-01-25,Valenne Republic,active
-FLG-000055,REG-KNT-01024,OFR-20053,Faris Quell,1970–1979,Kintaran,Agricultural operations director,2008-01-01,,2008-01-27,Kintara Republic,active
-FLG-000056,REG-VLN-01001,OFR-20055,Alina Istra,1984,Valennan,Compliance analyst,2010-01-01,,2010-02-12,Meridian Valenne Headquarters,active
-FLG-000057,REG-VLN-01005,OFR-20055,Alina Istra,1984,Valennan,Operations manager,2008-01-01,2009-12-31,2008-02-19,Valenne Central District,historical
-FLG-000058,REG-VLN-01002,OFR-20056,Faris Uren,1961,Valennan,Consultant physician,1986-01-01,1999-12-31,1986-01-27,Asterion Central Clinical Campus,historical
-FLG-000059,REG-TMB-01003,OFR-20057,Kira Norel,1960–1969,Tembaran,Regional logistics manager,1990-01-01,,1990-03-05,Northstar Tembara Cold-Chain Hub,active
-FLG-000060,REG-AVL-01007,OFR-20057,Kira Norel,1962,Tembaran,Regional adviser,1986/01/01,1989-12-31,1986-03-11,Threshold Earth Avelora Laboratory,historical
-FLG-000061,REG-VLN-01004,OFR-20058,Nora Faron,1969,Valennan,Corporate adviser,2003-01-01,,2003-03-06,Meridian Valenne Headquarters,active
-FLG-000062,REG-AVL-01009,OFR-20059,Petra Grell,1971,Kintaran,Operations manager,1995-01-01,2004-12-31,1995-03-07,Eastern Avelora Agricultural Cluster,historical
-FLG-000063,REG-NDH-01011,OFR-20061,Doran Maren,1960–1969,Tembaran,Deputy director,1990-01-01,1993-12-31,1990-01-11,Nordhaven Maritime District,historical
-FLG-000064,REG-VLN-01005,OFR-20062,Zoren Palen,1989,Valennan,Strategic adviser,2014-01-01,,2014-03-05,Valenne Central District,active
-FLG-000065,REG-VLN-01006,OFR-20063,Miran Lorin,1987,Valennan,Policy consultant,2012-01-01,,2012-02-27,Vale Strategy Valenne Office,active
-FLG-000066,REG-AVL-01007,OFR-20064,Calen Jaren,1975,Aveloran,Senior field analyst,1998-01-01,,1998-01-30,Threshold Earth Avelora Laboratory,active
-FLG-000067,REG-VLN-01008,OFR-20065,Miran Zorin,1950–1959,Valennan,Campaign coordinator,1992-01-01,2015-12-31,1992-02-25,Valenne Central District,historical
-FLG-000068,REG-VLN-01014,OFR-20065,Miran Zorin,1958,Valennan,Operations manager,1982-01-01,1991-12-31,1982-02-07,Valenne Central District,historical
-FLG-000069,REG-AVL-01009,OFR-20066,Farah Norel,1956,Aveloran,Pollinator advocate,1989-01-01,,1989-01-28,Eastern Avelora Agricultural Cluster,active
-FLG-000070,REG-VLN-01010,OFR-20067,Xara Orell,1978,Valennan,Investigative reporter,2012-01-01,,2012-02-12,Valenne Central District,active
-FLG-000071,REG-NDH-01011,OFR-20068,Jora Maren,1970–1979,Nordhaven,Records researcher,2007-01-01,,2007-03-12,Nordhaven Maritime District,active
-FLG-000072,REG-NDH-01012,OFR-20069,Orin Kerin,1956,Nordhaven,Compliance counsel,1988-01-01,,1988-02-03,Nordhaven Maritime District,active
-FLG-000073,REG-VLN-01021,OFR-20069,Orin Kerin,1956,Nordhaven,Operations manager,1980-01-01,1987-12-31,1980-02-26,Valenne Republic,historical
-FLG-000074,REG-AVL-01013,OFR-20071,Zalia Dalen,1987,Aveloran,Field research coordinator,2014-01-01,,2014-02-02,Eastern Avelora Agricultural Cluster,active
-FLG-000075,REG-VLN-01023,OFR-20071,Zalia Dalen,1980–1989,Aveloran,Programme manager,2011-01-01,2013-12-31,2011-01-22,Valenne Republic,historical
-FLG-000076,REG-VLN-01014,OFR-20072,Arden Aster,1984,Valennan,Grant officer,2015-01-01,,2015-02-20,Valenne Central District,active
-FLG-000077,REG-VLN-01002,OFR-20075,Jalen Quorin,1989,Tembaran,Regional adviser,2013-01-01,2011-12-31,2013-01-26,Asterion Central Clinical Campus,historical
-FLG-000078,REG-VLN-01021,OFR-20076,Orin Havel,1974,Valennan,Corporate affairs director,2003-01-01,,2003-03-15,Valenne Republic,active
-FLG-000079,REG-NDH-01022,OFR-20077,Bran Grell,1940–1949,Nordhaven,Maritime operations executive,1980-01-01,,1980-03-05,Nordhaven Union,active
-FLG-000080,REG-VLN-01004,OFR-20077,Bran Grell,1949,Nordhaven,Deputy director,1973-01-01,1979-12-31,1973-01-22,Meridian Valenne Headquarters,historical
-FLG-000081,REG-VLN-01023,OFR-20078,Taren Yorin,1986,Valennan,Regional executive,2013-01-01,,2013-03-15,Valenne Republic,active
-FLG-000082,REG-KNT-01024,OFR-20079,Orin Kassen,1979,Kintaran,Agricultural operations director,2008-01-01,,2008-02-27,Kintara Republic,active
-FLG-000083,REG-VLN-01001,OFR-20081,Orin Norel,1970–1979,Valennan,Cold-chain programme manager,1998-01-01,,1998-03-12,Meridian Valenne Headquarters,active
-FLG-000084,REG-VLN-01005,OFR-20081,Orin Norel,1974,Valennan,Senior analyst,1998-01-01,1997-12-31,1998-01-26,Valenne Central District,historical
-FLG-000085,REG-VLN-01002,OFR-20082,Farah Havel,1994,Valennan,Specialist clinician,2026-01-01,,2026-02-21,Asterion Central Clinical Campus,active
-FLG-000086,REG-TMB-01003,OFR-20083,Calen Elen,1971,Tembaran,Regional logistics manager,2001-01-01,2021-12-31,2001-02-06,Northstar Tembara Cold-Chain Hub,historical
-FLG-000087,REG-AVL-01007,OFR-20083,Calen Elen,1970–1979,Tembaran,Programme manager,1995-01-01,2000-12-31,1995-03-09,Threshold Earth Avelora Laboratory,historical
-FLG-000088,REG-VLN-01004,OFR-20084,Talia Elen,1975,Valennan,Corporate adviser,2006-01-01,,2006-02-09,Meridian Valenne Headquarters,active
-FLG-000089,REG-AVL-01009,OFR-20085,Marek Kerin,1988,Kintaran,Regional adviser,2012-01-01,2020-12-31,2012-03-12,Eastern Avelora Agricultural Cluster,historical
-FLG-000090,REG-NDH-01011,OFR-20087,Halen Wessen,1974,Tembaran,Operations manager,1998-01-01,2001-12-31,1998-03-01,Nordhaven Maritime District,historical
-FLG-000091,REG-VLN-01005,OFR-20088,Zoren Valek,1960–1969,Valennan,Strategic adviser,2001-01-01,,2001-03-05,Valenne Central District,active
-FLG-000092,REG-VLN-01006,OFR-20089,Doran Orsen,1982,Valennan,Policy consultant,2014-01-01,,2014-01-19,Vale Strategy Valenne Office,active
-FLG-000093,REG-AVL-01007,OFR-20090,Liora Uren,1973,Aveloran,Senior field analyst,2004-01-01,,2004-02-29,Threshold Earth Avelora Laboratory,active
-FLG-000094,REG-VLN-01008,OFR-20091,Bela Cevan,1968,Valennan,Campaign coordinator,1996-01-01,,1996-02-20,Valenne Central District,active
-FLG-000095,REG-VLN-01014,OFR-20091,Bela Cevan,1960–1969,Valennan,Regional adviser,1992-01-01,1995-12-31,1992-03-12,Valenne Central District,historical
-FLG-000096,REG-AVL-01009,OFR-20092,Amina Elen,1964,Aveloran,Pollinator advocate,1987-01-01,2008-12-31,1987-01-15,Eastern Avelora Agricultural Cluster,historical
-FLG-000097,REG-VLN-01010,OFR-20093,Taren Norel,1978,Valennan,Investigative reporter,2011-01-01,,2011-02-18,Valenne Central District,active
-FLG-000098,REG-NDH-01011,OFR-20094,Kellan Rellan,1973,Nordhaven,Records researcher,2006-01-01,,2006-01-19,Nordhaven Maritime District,active
-FLG-000099,REG-NDH-01012,OFR-20095,  Pavel  Waren ,1980–1989,Nordhaven,Compliance counsel,2011-01-01,,2011-03-10,Nordhaven Maritime District,active
-FLG-000100,REG-VLN-01021,OFR-20095,Pavel Waren,1987,Nordhaven,Programme manager,2011-01-01,2010-12-31,2011-02-03,Valenne Republic,historical
-FLG-000101,REG-AVL-01013,OFR-20097,Doran Norel,1978,Aveloran,Field research coordinator,2012-01-01,,2012-03-02,Eastern Avelora Agricultural Cluster,active
-FLG-000102,REG-VLN-01023,OFR-20097,Doran Norel,1978,Aveloran,Programme manager,2002-01-01,2011-12-31,2002-02-10,Valenne Republic,historical
-FLG-000103,REG-VLN-01014,OFR-20098,Bela Belen,1980–1989,Valennan,Grant officer,2020-01-01,,2020-02-11,Valenne Central District,active
-FLG-000104,REG-VLN-01002,OFR-20101,Sena Grell,1970,Tembaran,Deputy director,1994-01-01,2002-12-31,1994-02-16,Asterion Central Clinical Campus,historical
-FLG-000105,REG-VLN-01021,OFR-20102,Petra Lorin,1990,Valennan,Corporate affairs director,2024-01-01,,2024-02-26,Valenne Republic,active
-FLG-000106,REG-NDH-01022,OFR-20103,Marek Jaren,1982,Nordhaven,Maritime operations executive,2016-01-01,,2016-02-04,Nordhaven Union,active
-FLG-000107,REG-VLN-01004,OFR-20103,Marek Jaren,1980–1989,Nordhaven,Regional adviser,2006-01-01,2015-12-31,2006-01-11,Meridian Valenne Headquarters,historical
-FLG-000108,REG-VLN-01023,OFR-20104,Calen Garen,1960,Valennan,Regional executive,1990-01-01,,1990-02-02,Valenne Republic,active
-FLG-000109,REG-KNT-01024,OFR-20105,Ravin Essen,1978,Kintaran,Agricultural operations director,2009-01-01,,2009-02-09,Kintara Republic,active
-FLG-000110,REG-VLN-01001,OFR-20107,Vera Faron,1956,Valennan,Operations director,1990-01-01,,1990-03-14,Meridian Valenne Headquarters,active
-FLG-000111,REG-VLN-01005,OFR-20107,Vera Faron,1950–1959,Valennan,Programme manager,1980-01-01,1989-12-31,1980-02-05,Valenne Central District,historical
-FLG-000112,REG-VLN-01002,OFR-20108,Ravin Palen,1963,Valennan,Clinical research scientist,1995-01-01,,1995-02-01,Asterion Central Clinical Campus,active
-FLG-000113,REG-TMB-01003,OFR-20109,Orin Horan,1966,Tembaran,Regional logistics manager,1997-01-01,,1997-01-12,Northstar Tembara Cold-Chain Hub,active
-FLG-000114,REG-AVL-01007,OFR-20109,Orin Horan,1966,Tembaran,Senior analyst,1990-01-01,1996-12-31,1990-02-05,Threshold Earth Avelora Laboratory,historical
-FLG-000115,REG-VLN-01004,OFR-20110,Gita Aren,1960–1969,Valennan,Corporate adviser,1993-01-01,2015-12-31,1993-03-04,Meridian Valenne Headquarters,historical
-FLG-000116,REG-AVL-01009,OFR-20111,Bela Waren,1966,Kintaran,Deputy director,1990-01-01,1993-12-31,1990-02-27,Eastern Avelora Agricultural Cluster,historical
-FLG-000117,REG-NDH-01011,OFR-20113,Farah Ferran,1972,Tembaran,Programme manager,1996-01-01,2005-12-31,1996-02-24,Nordhaven Maritime District,historical
-FLG-000118,REG-VLN-01005,OFR-20114,Vera Cevan,1962,Valennan,Strategic adviser,1991-01-01,,1991-03-07,Valenne Central District,active
-FLG-000119,REG-VLN-01006,OFR-20115,Olia Aren,1970–1979,Valennan,Policy consultant,2005-01-01,,2005-03-08,Vale Strategy Valenne Office,active
-FLG-000120,REG-AVL-01007,OFR-20116,Jalen Zorin,1984,Aveloran,Senior field analyst,2007-01-01,,2007-02-20,Threshold Earth Avelora Laboratory,active
-FLG-000121,REG-VLN-01008,OFR-20117,Rina Boras,1979,Valennan,Campaign coordinator,2006-01-01,,2006-01-11,Valenne Central District,active
-FLG-000122,REG-VLN-01014,OFR-20117,Rina Boras,1979,Valennan,Operations manager,2003-01-01,2005-12-31,2003-01-20,Valenne Central District,historical
-FLG-000123,REG-AVL-01009,OFR-20118,Vera Waren,1960–1969,Aveloran,Pollinator advocate,1991-01-01,,1991-03-14,Eastern Avelora Agricultural Cluster,active
-FLG-000124,REG-VLN-01010,OFR-20119,Elian Cevan,1992,Valennan,Investigative reporter,2025-01-01,2024-12-31,2025-03-04,Valenne Central District,historical
-FLG-000125,REG-NDH-01011,OFR-20120,Bran Elen,1956,Nordhaven,Records researcher,1987-01-01,,1987-03-01,Nordhaven Maritime District,active
-FLG-000126,REG-NDH-01012,OFR-20121,Daria Garen,1976,Nordhaven,Compliance counsel,1999-01-01,,1999-01-14,Nordhaven Maritime District,active
-FLG-000127,REG-VLN-01021,OFR-20121,Daria Garen,1970–1979,Nordhaven,Programme manager,2000-01-01,1998-12-31,2000-03-15,Valenne Republic,historical
-FLG-000128,REG-AVL-01013,OFR-20123,Uma Wessen,1991,Aveloran,Field research coordinator,2015-01-01,,2015-01-14,Eastern Avelora Agricultural Cluster,active
-FLG-000129,REG-VLN-01023,OFR-20123,Uma Wessen,1991,Aveloran,Programme manager,2015-01-01,2014-12-31,2015-02-06,Valenne Republic,historical
-FLG-000130,REG-VLN-01014,OFR-20124,Zoren Yorin,1964,Valennan,Grant officer,1994-01-01,,1994-03-10,Valenne Central District,active
-FLG-000131,REG-VLN-01002,OFR-20127,Petra Koral,1980–1989,Tembaran,Regional adviser,2005-01-01,2004-12-31,2005-03-01,Asterion Central Clinical Campus,historical
-FLG-000132,REG-VLN-01021,OFR-20128,Xara Aren,1987,Valennan,Corporate affairs director,2015-01-01,2024-12-31,2015-02-25,Valenne Republic,historical
-FLG-000133,REG-NDH-01022,OFR-20129,Miran Istra,1962,Nordhaven,Maritime operations executive,1989-01-01,,1989-01-29,Nordhaven Union,active
-FLG-000134,REG-VLN-01004,OFR-20129,Miran Istra,1962,Nordhaven,Regional adviser,1986-01-01,1988-12-31,1986-02-19,Meridian Valenne Headquarters,historical
-FLG-000135,REG-VLN-01023,OFR-20130,Miran Soren,1980–1989,Valennan,Regional executive,2014-01-01,,2014-02-22,Valenne Republic,active
-FLG-000053,REG-VLN-01004,OFR-20051,Nadia Aren,1986,Nordhaven,Operations manager,2010-01-01,2017-12-31,2010-02-03,Meridian Valenne Headquarters,historical
+filing_id,registration_number,officer_local_ref,full_name,birth_year_or_age_band,nationality_or_region,role_title,appointment_date,cessation_date,filing_date,service_address,filing_status,birth_year_min,birth_year_max,is_active_officer
+FLG-000001,REG-NDH-01015,OFR-20001,Edward Vann,1815,Nordhaven,Industrial and shipping adviser,1840-01-01,1888-12-31,1840-03-09,Nordhaven Union,historical,1815,1815,False
+FLG-000002,REG-VLN-01016,OFR-20002,Emil Warden,1871,Valennan,Commercial and medical investor,1895-01-01,1943-12-31,1895-01-13,Valenne Republic,historical,1871,1871,False
+FLG-000003,REG-NDH-01017,OFR-20003,Adrian Vosmere,1920–1929,Nordhaven,Biotechnology and logistics executive,1952-01-01,1991-12-31,1952-01-16,Nordhaven Union,historical,1920,1929,False
+FLG-000004,REG-VLN-01001,OFR-20004,Dr. Elias Voss,1961,Valennan,Executive chair of Meridian BioLogistics,1996-01-01,,1996-02-15,Meridian Valenne Headquarters,active,1961,1961,True
+FLG-000005,REG-KNT-01018,OFR-20005,J. Varlan,1862,Kintaran,Natural-history correspondent,1885-01-01,1918-12-31,1885-03-14,Kintara Republic,historical,1862,1862,False
+FLG-000006,REG-AVL-01019,OFR-20006,Jonah Bell,1900,Aveloran,Conservation researcher,1924-01-01,1963-12-31,1924-02-16,Avelora Federation,historical,1900,1900,False
+FLG-000007,REG-VLN-01020,OFR-20007,Julien Marot,1940–1949,Valennan,Environmental-policy adviser,1970-01-01,2004-12-31,1970-02-28,Valenne Republic,historical,1940,1949,False
+FLG-000008,REG-VLN-01006,OFR-20008,Jacob Vale,1971,Valennan,Founder and senior adviser of Vale Strategy Collective,2008-01-01,,2008-01-13,Vale Strategy Valenne Office,active,1971,1971,True
+FLG-000009,REG-VLN-01002,OFR-20009,Dr. Naima Orrel,1978,Valennan,research director at asterion clinical institute,2001-01-01,,2001-01-15,Asterion Central Clinical Campus,active,1978,1978,True
+FLG-000010,REG-VLN-01001,OFR-20010,Soren Kade,1968,Nordhaven,Strategic logistics director at Meridian BioLogistics,1999-01-01,,1999-01-26,Meridian Valenne Headquarters,active,1968,1968,True
+FLG-000011,REG-VLN-01010,OFR-20012,Mara Venn,1980–1989,Valennan,Former research-logistics employee and independent source,2004-01-01,,2004-01-17,Valenne Central District,active,1980,1989,True
+FLG-000012,REG-VLN-01002,OFR-20013,Dr. Corin Hale,1974,Valennan,Imaging and physiological-signal specialist,2002-01-01,,2002-01-30,Asterion Central Clinical Campus,active,1974,1974,True
+FLG-000013,REG-TMB-01003,OFR-20015,Niko Verran,1972,Tembaran,Cold-chain route-planning manager,2000-01-01,,2000-03-04,Northstar Tembara Cold-Chain Hub,active,1972,1972,True
+FLG-000014,REG-AVL-01007,OFR-20016,Selene Aras,1985,Aveloran,Senior ecological analyst,2007-01-01,,2007-03-05,Threshold Earth Avelora Laboratory,active,1985,1985,True
+FLG-000015,REG-VLN-01021,OFR-20020,Celene Varro,1950–1959,Valennan,Chief executive of Solvane Energy Group,1977-01-01,,1977-02-07,Valenne Republic,active,1950,1959,True
+FLG-000016,REG-NDH-01022,OFR-20021,Oskar Nivren,1946,Nordhaven,Executive chair of Nivren Maritime Logistics,1973-01-01,,1973-01-12,Nordhaven Union,active,1946,1946,True
+FLG-000017,REG-VLN-01023,OFR-20022,Adrienne Solva,1958,Valennan,Executive director of Ardena Capital Union,1987-01-01,,1987-02-27,Valenne Republic,active,1958,1958,True
+FLG-000018,REG-KNT-01024,OFR-20023,Rayan Belen,1952,Kintaran,Chair of Belen Agro-Industries,1981-01-01,,1981-02-03,Kintara Republic,active,1952,1952,True
+FLG-000019,REG-NDH-01012,OFR-20026,Tomas Pell,1970–1979,Nordhaven,Compliance partner,1998-01-01,,1998-02-20,Nordhaven Maritime District,active,1970,1979,True
+FLG-000020,REG-AVL-01013,OFR-20027,Anika Dren,1981,Aveloran,Field research coordinator,2006-01-01,,2006-01-14,Eastern Avelora Agricultural Cluster,active,1981,1981,True
+FLG-000021,REG-VLN-01010,OFR-20028,Jora Menne,1977,Valennan,Investigative journalist,2001-01-01,,2001-02-18,Valenne Central District,active,1977,1977,True
+FLG-000022,REG-VLN-01005,OFR-20020,Celene Varro,1950,Valennan,Industry council member,1977-05-01,1987-12-31,1977-05-27,Valenne Central District,historical,1950,1950,False
+FLG-000023,REG-VLN-01021,OFR-20020,Celene Varro,1950–1959,Valennan,Executive board member,1988-01-01,1997-06-30,1988-01-27,Valenne Republic,historical,1950,1959,False
+FLG-000024,REG-TMB-01003,OFR-20021,Oskar Nivren,1946,Nordhaven,Regional logistics director,1973-03-01,1986-12-31,1973-04-01,Northstar Tembara Cold-Chain Hub,historical,1946,1946,False
+FLG-000025,REG-NDH-01022,OFR-20021,Oskar Nivren,1946,Nordhaven,Chief operating officer,1987-01-01,1998-12-31,1987-02-23,Nordhaven Union,historical,1946,1946,False
+FLG-000026,REG-VLN-01004,OFR-20022,Adrienne Solva,1958,Valennan,Investment director,1987-09-01,1997-12-31,1987-10-21,Meridian Valenne Headquarters,historical,1958,1958,False
+FLG-000027,REG-VLN-01023,OFR-20022,Adrienne Solva,1950–1959,Valennan,Executive committee member,1998-01-01,2008-12-31,1998-01-29,Valenne Republic,historical,1950,1959,False
+FLG-000028,REG-KNT-01024,OFR-20023,Rayan Belen,1952,Kintaran,Managing director,1993-01-01,2002-12-31,1993-01-25,Kintara Republic,historical,1952,1952,False
+FLG-000029,REG-VLN-01001,OFR-20029,Nora Essen,1965,Valennan,Operations director,1997-01-01,2016-12-31,1997-02-05,Meridian Valenne Headquarters,historical,1965,1965,False
+FLG-000030,REG-VLN-01005,OFR-20029,Nora Essen,1965,Valennan,Programme manager,1989-01-01,1996-12-31,1989-01-15,Valenne Central District,historical,1965,1965,False
+FLG-000031,REG-VLN-01002,OFR-20030,Daria Zaven,1950–1959,Valennan,Clinical research scientist,1990-01-01,,1990-03-10,Asterion Central Clinical Campus,active,1950,1959,True
+FLG-000032,REG-TMB-01003,OFR-20031,Varen Valek,1966,Tembaran,Regional logistics manager,1997-01-01,,1997-03-07,Northstar Tembara Cold-Chain Hub,active,1966,1966,True
+FLG-000033,REG-AVL-01007,OFR-20031,Varen Valek,1966,Tembaran,Operations manager,1990-01-01,1996-12-31,1990-02-28,Threshold Earth Avelora Laboratory,historical,1966,1966,False
+FLG-000034,REG-VLN-01004,OFR-20032,Nadia Cevan,1976,Valennan,Corporate adviser,2004-01-01,,2004-02-03,Meridian Valenne Headquarters,active,1976,1976,True
+FLG-000035,REG-AVL-01009,OFR-20033,Liora Maren,1980–1989,Kintaran,Deputy director,2011-01-01,2016-12-31,2011-03-13,Eastern Avelora Agricultural Cluster,historical,1980,1989,False
+FLG-000036,REG-NDH-01011,OFR-20035,Calen Uren,1983,Tembaran,Operations manager,2007-01-01,2006-12-31,2007-03-08,Nordhaven Maritime District,historical,1983,1983,False
+FLG-000037,REG-VLN-01005,OFR-20036,Ilia Toren,1980,Valennan,Strategic adviser,2010-01-01,,2010-02-17,Valenne Central District,active,1980,1980,True
+FLG-000038,REG-VLN-01006,OFR-20037,Nora Yorin,1991,Valennan,Policy consultant,2019-01-01,,2019-01-29,Vale Strategy Valenne Office,active,1991,1991,True
+FLG-000039,REG-AVL-01007,OFR-20038,Nadia Istra,1960–1969,Aveloran,Senior field analyst,1995-01-01,2011-12-31,1995-02-21,Threshold Earth Avelora Laboratory,historical,1960,1969,False
+FLG-000040,REG-VLN-01008,OFR-20039,Wira Soren,1983,Valennan,Campaign coordinator,2016-01-01,,2016-02-15,Valenne Central District,active,1983,1983,True
+FLG-000041,REG-VLN-01014,OFR-20039,Wira Soren,1983,Valennan,Senior analyst,2007-01-01,2015-12-31,2007-03-01,Valenne Central District,historical,1983,1983,False
+FLG-000042,REG-AVL-01009,OFR-20040,Doran Wessen,1966,Aveloran,Pollinator advocate,1996-01-01,,1996-02-15,Eastern Avelora Agricultural Cluster,active,1966,1966,True
+FLG-000043,REG-VLN-01010,OFR-20041,Yorin Serin,1960–1969,Valennan,Investigative reporter,1990-01-01,,1990-01-18,Valenne Central District,active,1960,1969,True
+FLG-000044,REG-NDH-01011,OFR-20042,Amina Soren,1972,Nordhaven,Records researcher,2002-01-01,,2002-02-18,Nordhaven Maritime District,active,1972,1972,True
+FLG-000045,REG-NDH-01012,OFR-20043,Bela Ferran,1993,Nordhaven,Compliance counsel,2020-01-01,,2020-03-07,Nordhaven Maritime District,active,1993,1993,True
+FLG-000046,REG-VLN-01021,OFR-20043,Bela Ferran,1993,Nordhaven,Operations manager,2017-01-01,2019-12-31,2017-01-26,Valenne Republic,historical,1993,1993,False
+FLG-000047,REG-AVL-01013,OFR-20045,Jora Vela,1970–1979,Aveloran,Field research coordinator,2006-01-01,,2006-03-13,Eastern Avelora Agricultural Cluster,active,1970,1979,True
+FLG-000048,REG-VLN-01023,OFR-20045,Jora Vela,1973,Aveloran,Regional adviser,1997-01-01,2005-12-31,1997-03-14,Valenne Republic,historical,1973,1973,False
+FLG-000049,REG-VLN-01014,OFR-20046,Yana Naven,1978,Valennan,Grant officer,2007-01-01,,2007-03-06,Valenne Central District,active,1978,1978,True
+FLG-000050,REG-VLN-01002,OFR-20049,Liora Corda,1990,Tembaran,Regional adviser,2014-01-01,2012-12-31,2014-02-23,Asterion Central Clinical Campus,historical,1990,1990,False
+FLG-000051,REG-VLN-01021,OFR-20050,Calen Lask,1950–1959,Valennan,Corporate affairs director,1987-01-01,,1987-03-11,Valenne Republic,active,1950,1959,True
+FLG-000052,REG-NDH-01022,OFR-20051,Nadia Aren,1986,Nordhaven,Maritime operations executive,2018-01-01,,2018-02-11,Nordhaven Union,active,1986,1986,True
+FLG-000053,REG-VLN-01004,OFR-20051,Nadia Aren,1986,Nordhaven,Operations manager,2010-01-01,2017-12-31,2010-02-03,Meridian Valenne Headquarters,historical,1986,1986,False
+FLG-000054,REG-VLN-01023,OFR-20052,Kellan Toren,1962,Valennan,Regional executive,1996-01-01,,1996-01-25,Valenne Republic,active,1962,1962,True
+FLG-000055,REG-KNT-01024,OFR-20053,Faris Quell,1970–1979,Kintaran,Agricultural operations director,2008-01-01,,2008-01-27,Kintara Republic,active,1970,1979,True
+FLG-000056,REG-VLN-01001,OFR-20055,Alina Istra,1984,Valennan,Compliance analyst,2010-01-01,,2010-02-12,Meridian Valenne Headquarters,active,1984,1984,True
+FLG-000057,REG-VLN-01005,OFR-20055,Alina Istra,1984,Valennan,Operations manager,2008-01-01,2009-12-31,2008-02-19,Valenne Central District,historical,1984,1984,False
+FLG-000058,REG-VLN-01002,OFR-20056,Faris Uren,1961,Valennan,Consultant physician,1986-01-01,1999-12-31,1986-01-27,Asterion Central Clinical Campus,historical,1961,1961,False
+FLG-000059,REG-TMB-01003,OFR-20057,Kira Norel,1960–1969,Tembaran,Regional logistics manager,1990-01-01,,1990-03-05,Northstar Tembara Cold-Chain Hub,active,1960,1969,True
+FLG-000060,REG-AVL-01007,OFR-20057,Kira Norel,1962,Tembaran,Regional adviser,1986-01-01,1989-12-31,1986-03-11,Threshold Earth Avelora Laboratory,historical,1962,1962,False
+FLG-000061,REG-VLN-01004,OFR-20058,Nora Faron,1969,Valennan,Corporate adviser,2003-01-01,,2003-03-06,Meridian Valenne Headquarters,active,1969,1969,True
+FLG-000062,REG-AVL-01009,OFR-20059,Petra Grell,1971,Kintaran,Operations manager,1995-01-01,2004-12-31,1995-03-07,Eastern Avelora Agricultural Cluster,historical,1971,1971,False
+FLG-000063,REG-NDH-01011,OFR-20061,Doran Maren,1960–1969,Tembaran,Deputy director,1990-01-01,1993-12-31,1990-01-11,Nordhaven Maritime District,historical,1960,1969,False
+FLG-000064,REG-VLN-01005,OFR-20062,Zoren Palen,1989,Valennan,Strategic adviser,2014-01-01,,2014-03-05,Valenne Central District,active,1989,1989,True
+FLG-000065,REG-VLN-01006,OFR-20063,Miran Lorin,1987,Valennan,Policy consultant,2012-01-01,,2012-02-27,Vale Strategy Valenne Office,active,1987,1987,True
+FLG-000066,REG-AVL-01007,OFR-20064,Calen Jaren,1975,Aveloran,Senior field analyst,1998-01-01,,1998-01-30,Threshold Earth Avelora Laboratory,active,1975,1975,True
+FLG-000067,REG-VLN-01008,OFR-20065,Miran Zorin,1950–1959,Valennan,Campaign coordinator,1992-01-01,2015-12-31,1992-02-25,Valenne Central District,historical,1950,1959,False
+FLG-000068,REG-VLN-01014,OFR-20065,Miran Zorin,1958,Valennan,Operations manager,1982-01-01,1991-12-31,1982-02-07,Valenne Central District,historical,1958,1958,False
+FLG-000069,REG-AVL-01009,OFR-20066,Farah Norel,1956,Aveloran,Pollinator advocate,1989-01-01,,1989-01-28,Eastern Avelora Agricultural Cluster,active,1956,1956,True
+FLG-000070,REG-VLN-01010,OFR-20067,Xara Orell,1978,Valennan,Investigative reporter,2012-01-01,,2012-02-12,Valenne Central District,active,1978,1978,True
+FLG-000071,REG-NDH-01011,OFR-20068,Jora Maren,1970–1979,Nordhaven,Records researcher,2007-01-01,,2007-03-12,Nordhaven Maritime District,active,1970,1979,True
+FLG-000072,REG-NDH-01012,OFR-20069,Orin Kerin,1956,Nordhaven,Compliance counsel,1988-01-01,,1988-02-03,Nordhaven Maritime District,active,1956,1956,True
+FLG-000073,REG-VLN-01021,OFR-20069,Orin Kerin,1956,Nordhaven,Operations manager,1980-01-01,1987-12-31,1980-02-26,Valenne Republic,historical,1956,1956,False
+FLG-000074,REG-AVL-01013,OFR-20071,Zalia Dalen,1987,Aveloran,Field research coordinator,2014-01-01,,2014-02-02,Eastern Avelora Agricultural Cluster,active,1987,1987,True
+FLG-000075,REG-VLN-01023,OFR-20071,Zalia Dalen,1980–1989,Aveloran,Programme manager,2011-01-01,2013-12-31,2011-01-22,Valenne Republic,historical,1980,1989,False
+FLG-000076,REG-VLN-01014,OFR-20072,Arden Aster,1984,Valennan,Grant officer,2015-01-01,,2015-02-20,Valenne Central District,active,1984,1984,True
+FLG-000077,REG-VLN-01002,OFR-20075,Jalen Quorin,1989,Tembaran,Regional adviser,2013-01-01,2011-12-31,2013-01-26,Asterion Central Clinical Campus,historical,1989,1989,False
+FLG-000078,REG-VLN-01021,OFR-20076,Orin Havel,1974,Valennan,Corporate affairs director,2003-01-01,,2003-03-15,Valenne Republic,active,1974,1974,True
+FLG-000079,REG-NDH-01022,OFR-20077,Bran Grell,1940–1949,Nordhaven,Maritime operations executive,1980-01-01,,1980-03-05,Nordhaven Union,active,1940,1949,True
+FLG-000080,REG-VLN-01004,OFR-20077,Bran Grell,1949,Nordhaven,Deputy director,1973-01-01,1979-12-31,1973-01-22,Meridian Valenne Headquarters,historical,1949,1949,False
+FLG-000081,REG-VLN-01023,OFR-20078,Taren Yorin,1986,Valennan,Regional executive,2013-01-01,,2013-03-15,Valenne Republic,active,1986,1986,True
+FLG-000082,REG-KNT-01024,OFR-20079,Orin Kassen,1979,Kintaran,Agricultural operations director,2008-01-01,,2008-02-27,Kintara Republic,active,1979,1979,True
+FLG-000083,REG-VLN-01001,OFR-20081,Orin Norel,1970–1979,Valennan,Cold-chain programme manager,1998-01-01,,1998-03-12,Meridian Valenne Headquarters,active,1970,1979,True
+FLG-000084,REG-VLN-01005,OFR-20081,Orin Norel,1974,Valennan,Senior analyst,1998-01-01,1997-12-31,1998-01-26,Valenne Central District,historical,1974,1974,False
+FLG-000085,REG-VLN-01002,OFR-20082,Farah Havel,1994,Valennan,Specialist clinician,2026-01-01,,2026-02-21,Asterion Central Clinical Campus,active,1994,1994,True
+FLG-000086,REG-TMB-01003,OFR-20083,Calen Elen,1971,Tembaran,Regional logistics manager,2001-01-01,2021-12-31,2001-02-06,Northstar Tembara Cold-Chain Hub,historical,1971,1971,False
+FLG-000087,REG-AVL-01007,OFR-20083,Calen Elen,1970–1979,Tembaran,Programme manager,1995-01-01,2000-12-31,1995-03-09,Threshold Earth Avelora Laboratory,historical,1970,1979,False
+FLG-000088,REG-VLN-01004,OFR-20084,Talia Elen,1975,Valennan,Corporate adviser,2006-01-01,,2006-02-09,Meridian Valenne Headquarters,active,1975,1975,True
+FLG-000089,REG-AVL-01009,OFR-20085,Marek Kerin,1988,Kintaran,Regional adviser,2012-01-01,2020-12-31,2012-03-12,Eastern Avelora Agricultural Cluster,historical,1988,1988,False
+FLG-000090,REG-NDH-01011,OFR-20087,Halen Wessen,1974,Tembaran,Operations manager,1998-01-01,2001-12-31,1998-03-01,Nordhaven Maritime District,historical,1974,1974,False
+FLG-000091,REG-VLN-01005,OFR-20088,Zoren Valek,1960–1969,Valennan,Strategic adviser,2001-01-01,,2001-03-05,Valenne Central District,active,1960,1969,True
+FLG-000092,REG-VLN-01006,OFR-20089,Doran Orsen,1982,Valennan,Policy consultant,2014-01-01,,2014-01-19,Vale Strategy Valenne Office,active,1982,1982,True
+FLG-000093,REG-AVL-01007,OFR-20090,Liora Uren,1973,Aveloran,Senior field analyst,2004-01-01,,2004-02-29,Threshold Earth Avelora Laboratory,active,1973,1973,True
+FLG-000094,REG-VLN-01008,OFR-20091,Bela Cevan,1968,Valennan,Campaign coordinator,1996-01-01,,1996-02-20,Valenne Central District,active,1968,1968,True
+FLG-000095,REG-VLN-01014,OFR-20091,Bela Cevan,1960–1969,Valennan,Regional adviser,1992-01-01,1995-12-31,1992-03-12,Valenne Central District,historical,1960,1969,False
+FLG-000096,REG-AVL-01009,OFR-20092,Amina Elen,1964,Aveloran,Pollinator advocate,1987-01-01,2008-12-31,1987-01-15,Eastern Avelora Agricultural Cluster,historical,1964,1964,False
+FLG-000097,REG-VLN-01010,OFR-20093,Taren Norel,1978,Valennan,Investigative reporter,2011-01-01,,2011-02-18,Valenne Central District,active,1978,1978,True
+FLG-000098,REG-NDH-01011,OFR-20094,Kellan Rellan,1973,Nordhaven,Records researcher,2006-01-01,,2006-01-19,Nordhaven Maritime District,active,1973,1973,True
+FLG-000099,REG-NDH-01012,OFR-20095,Pavel Waren,1980–1989,Nordhaven,Compliance counsel,2011-01-01,,2011-03-10,Nordhaven Maritime District,active,1980,1989,True
+FLG-000100,REG-VLN-01021,OFR-20095,Pavel Waren,1987,Nordhaven,Programme manager,2011-01-01,2010-12-31,2011-02-03,Valenne Republic,historical,1987,1987,False
+FLG-000101,REG-AVL-01013,OFR-20097,Doran Norel,1978,Aveloran,Field research coordinator,2012-01-01,,2012-03-02,Eastern Avelora Agricultural Cluster,active,1978,1978,True
+FLG-000102,REG-VLN-01023,OFR-20097,Doran Norel,1978,Aveloran,Programme manager,2002-01-01,2011-12-31,2002-02-10,Valenne Republic,historical,1978,1978,False
+FLG-000103,REG-VLN-01014,OFR-20098,Bela Belen,1980–1989,Valennan,Grant officer,2020-01-01,,2020-02-11,Valenne Central District,active,1980,1989,True
+FLG-000104,REG-VLN-01002,OFR-20101,Sena Grell,1970,Tembaran,Deputy director,1994-01-01,2002-12-31,1994-02-16,Asterion Central Clinical Campus,historical,1970,1970,False
+FLG-000105,REG-VLN-01021,OFR-20102,Petra Lorin,1990,Valennan,Corporate affairs director,2024-01-01,,2024-02-26,Valenne Republic,active,1990,1990,True
+FLG-000106,REG-NDH-01022,OFR-20103,Marek Jaren,1982,Nordhaven,Maritime operations executive,2016-01-01,,2016-02-04,Nordhaven Union,active,1982,1982,True
+FLG-000107,REG-VLN-01004,OFR-20103,Marek Jaren,1980–1989,Nordhaven,Regional adviser,2006-01-01,2015-12-31,2006-01-11,Meridian Valenne Headquarters,historical,1980,1989,False
+FLG-000108,REG-VLN-01023,OFR-20104,Calen Garen,1960,Valennan,Regional executive,1990-01-01,,1990-02-02,Valenne Republic,active,1960,1960,True
+FLG-000109,REG-KNT-01024,OFR-20105,Ravin Essen,1978,Kintaran,Agricultural operations director,2009-01-01,,2009-02-09,Kintara Republic,active,1978,1978,True
+FLG-000110,REG-VLN-01001,OFR-20107,Vera Faron,1956,Valennan,Operations director,1990-01-01,,1990-03-14,Meridian Valenne Headquarters,active,1956,1956,True
+FLG-000111,REG-VLN-01005,OFR-20107,Vera Faron,1950–1959,Valennan,Programme manager,1980-01-01,1989-12-31,1980-02-05,Valenne Central District,historical,1950,1959,False
+FLG-000112,REG-VLN-01002,OFR-20108,Ravin Palen,1963,Valennan,Clinical research scientist,1995-01-01,,1995-02-01,Asterion Central Clinical Campus,active,1963,1963,True
+FLG-000113,REG-TMB-01003,OFR-20109,Orin Horan,1966,Tembaran,Regional logistics manager,1997-01-01,,1997-01-12,Northstar Tembara Cold-Chain Hub,active,1966,1966,True
+FLG-000114,REG-AVL-01007,OFR-20109,Orin Horan,1966,Tembaran,Senior analyst,1990-01-01,1996-12-31,1990-02-05,Threshold Earth Avelora Laboratory,historical,1966,1966,False
+FLG-000115,REG-VLN-01004,OFR-20110,Gita Aren,1960–1969,Valennan,Corporate adviser,1993-01-01,2015-12-31,1993-03-04,Meridian Valenne Headquarters,historical,1960,1969,False
+FLG-000116,REG-AVL-01009,OFR-20111,Bela Waren,1966,Kintaran,Deputy director,1990-01-01,1993-12-31,1990-02-27,Eastern Avelora Agricultural Cluster,historical,1966,1966,False
+FLG-000117,REG-NDH-01011,OFR-20113,Farah Ferran,1972,Tembaran,Programme manager,1996-01-01,2005-12-31,1996-02-24,Nordhaven Maritime District,historical,1972,1972,False
+FLG-000118,REG-VLN-01005,OFR-20114,Vera Cevan,1962,Valennan,Strategic adviser,1991-01-01,,1991-03-07,Valenne Central District,active,1962,1962,True
+FLG-000119,REG-VLN-01006,OFR-20115,Olia Aren,1970–1979,Valennan,Policy consultant,2005-01-01,,2005-03-08,Vale Strategy Valenne Office,active,1970,1979,True
+FLG-000120,REG-AVL-01007,OFR-20116,Jalen Zorin,1984,Aveloran,Senior field analyst,2007-01-01,,2007-02-20,Threshold Earth Avelora Laboratory,active,1984,1984,True
+FLG-000121,REG-VLN-01008,OFR-20117,Rina Boras,1979,Valennan,Campaign coordinator,2006-01-01,,2006-01-11,Valenne Central District,active,1979,1979,True
+FLG-000122,REG-VLN-01014,OFR-20117,Rina Boras,1979,Valennan,Operations manager,2003-01-01,2005-12-31,2003-01-20,Valenne Central District,historical,1979,1979,False
+FLG-000123,REG-AVL-01009,OFR-20118,Vera Waren,1960–1969,Aveloran,Pollinator advocate,1991-01-01,,1991-03-14,Eastern Avelora Agricultural Cluster,active,1960,1969,True
+FLG-000124,REG-VLN-01010,OFR-20119,Elian Cevan,1992,Valennan,Investigative reporter,2025-01-01,2024-12-31,2025-03-04,Valenne Central District,historical,1992,1992,False
+FLG-000125,REG-NDH-01011,OFR-20120,Bran Elen,1956,Nordhaven,Records researcher,1987-01-01,,1987-03-01,Nordhaven Maritime District,active,1956,1956,True
+FLG-000126,REG-NDH-01012,OFR-20121,Daria Garen,1976,Nordhaven,Compliance counsel,1999-01-01,,1999-01-14,Nordhaven Maritime District,active,1976,1976,True
+FLG-000127,REG-VLN-01021,OFR-20121,Daria Garen,1970–1979,Nordhaven,Programme manager,2000-01-01,1998-12-31,2000-03-15,Valenne Republic,historical,1970,1979,False
+FLG-000128,REG-AVL-01013,OFR-20123,Uma Wessen,1991,Aveloran,Field research coordinator,2015-01-01,,2015-01-14,Eastern Avelora Agricultural Cluster,active,1991,1991,True
+FLG-000129,REG-VLN-01023,OFR-20123,Uma Wessen,1991,Aveloran,Programme manager,2015-01-01,2014-12-31,2015-02-06,Valenne Republic,historical,1991,1991,False
+FLG-000130,REG-VLN-01014,OFR-20124,Zoren Yorin,1964,Valennan,Grant officer,1994-01-01,,1994-03-10,Valenne Central District,active,1964,1964,True
+FLG-000131,REG-VLN-01002,OFR-20127,Petra Koral,1980–1989,Tembaran,Regional adviser,2005-01-01,2004-12-31,2005-03-01,Asterion Central Clinical Campus,historical,1980,1989,False
+FLG-000132,REG-VLN-01021,OFR-20128,Xara Aren,1987,Valennan,Corporate affairs director,2015-01-01,2024-12-31,2015-02-25,Valenne Republic,historical,1987,1987,False
+FLG-000133,REG-NDH-01022,OFR-20129,Miran Istra,1962,Nordhaven,Maritime operations executive,1989-01-01,,1989-01-29,Nordhaven Union,active,1962,1962,True
+FLG-000134,REG-VLN-01004,OFR-20129,Miran Istra,1962,Nordhaven,Regional adviser,1986-01-01,1988-12-31,1986-02-19,Meridian Valenne Headquarters,historical,1962,1962,False
+FLG-000135,REG-VLN-01023,OFR-20130,Miran Soren,1980–1989,Valennan,Regional executive,2014-01-01,,2014-02-22,Valenne Republic,active,1980,1989,True

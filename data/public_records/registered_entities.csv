@@ -1,25 +1,53 @@
-registration_number,legal_name,registered_entity_type,registration_date,current_status,registered_address,jurisdiction,declared_activity,parent_registration_number,last_filing_date
-REG-VLN-01001,Meridian BioLogistics,logistics_company,1996-01-15,active,Meridian Valenne Headquarters,Valenne Republic,International biological and cold-chain logistics,,2025-03-31
-REG-VLN-01002,Asterion Clinical Institute,research_institute,1989-01-15,active,Asterion Central Clinical Campus,Valenne Republic,Private preventive-medicine and research institute,,2025-03-31
-REG-TMB-01003,Northstar Cold Chain Services,logistics_company,1992-01-15,active,Northstar Tembara Cold-Chain Hub,Tembara Commonwealth,Refrigerated transport provider,,2025-03-31
-REG-VLN-01004,Whitehaven Strategic Holdings,consulting_company,1987-01-15,active,Meridian Valenne Headquarters,Valenne Republic,Investment and consulting company,,2025-03-31
-REG-VLN-01005,Valenne Industrial Futures Council,trade_association,1984-01-15,active,Valenne Central District,Valenne Republic,Industry-policy association,,2025-03-31
-REG-VLN-01006,Vale Strategy Collective,consulting_company,2008-01-15,active,Vale Strategy Valenne Office,Valenne Republic,Climate and social-policy consultancy,,2025-03-31
-REG-AVL-01007,Threshold Earth Observatory,research_institute,2011-01-15,active,Threshold Earth Avelora Laboratory,Avelora Federation,Environmental research organization,,2025-03-31
-REG-VLN-01008,Common Ground Climate Forum,activist_organization,2013-01-15,active,Valenne Central District,Valenne Republic,Climate and economic-justice coalition,,2025-03-31
-REG-AVL-01009,Pollinator Justice Network,activist_organization,2014-01-15,active,Eastern Avelora Agricultural Cluster,Avelora Federation,Agricultural and ecological advocacy group,,2025-03-31
-REG-VLN-01010,Lantern Investigative Bureau,media_organization,2015-01-15,active,Valenne Central District,Valenne Republic,Independent journalism and research group,,2025-03-31
-REG-NDH-01011,Earth Ledger Project,foundation,2014-01-15,active,Nordhaven Maritime District,Nordhaven Union,Corporate-transparency initiative,,2025-03-31
-REG-NDH-01012,Helix Legal and Compliance,legal_organization,1993-01-15,active,Nordhaven Maritime District,Nordhaven Union,Legal and regulatory consultancy,,2025-03-31
-REG-AVL-01013,Horizon Field Research Cooperative,research_institute,2002-01-15,active,Eastern Avelora Agricultural Cluster,Avelora Federation,Environmental contractor,,2025-03-31
-REG-VLN-01014,Meridian–Asterion Foundation,foundation,2005-01-15,active,Valenne Central District,Valenne Republic,Public-health and conservation charity,,2025-03-31
-REG-NDH-01015,Vann Maritime Advisory,consulting_company,1838-01-15,dissolved,Nordhaven Union,Nordhaven Union,Industrial and shipping advisory practice,,1891-12-31
-REG-VLN-01016,Warden Medical Ventures,investment_company,1894-01-15,dissolved,Valenne Republic,Valenne Republic,Commercial and medical investment partnership,,1948-12-31
-REG-NDH-01017,Vosmere Biotechnics,biotechnology_company,1951-01-15,dissolved,Nordhaven Union,Nordhaven Union,Biotechnology and transport company,,1994-12-31
-REG-KNT-01018,Varlan Natural History Circle,research_institute,1883-01-15,dissolved,Kintara Republic,Kintara Republic,Natural-history correspondence society,,1920-12-31
-REG-AVL-01019,Bell Conservation Survey,research_institute,1923-01-15,dissolved,Avelora Federation,Avelora Federation,Regional conservation survey,,1966-12-31
-REG-VLN-01020,Marot Ecological Policy Office,consulting_company,1969-01-15,dissolved,Valenne Republic,Valenne Republic,Environmental-policy advisory office,,2006-12-31
-REG-VLN-01021,Solvane Energy Group,energy_company,1972-01-15,active,Valenne Republic,Valenne Republic,Energy and infrastructure company,,2025-03-31
-REG-NDH-01022,Nivren Maritime Logistics,logistics_company,1969-01-15,active,Nordhaven Union,Nordhaven Union,Commercial maritime logistics company,,2025-03-31
-REG-VLN-01023,Ardena Capital Union,financial_institution,1982-01-15,active,Valenne Republic,Valenne Republic,Financial-services group,,2025-03-31
-REG-KNT-01024,Belen Agro-Industries,agricultural_company,1975-01-15,active,Kintara Republic,Kintara Republic,Agricultural production and processing company,,2025-03-31
+registration_number,legal_name,registered_entity_type,registration_date,current_status,registered_address,jurisdiction,declared_activity,last_filing_date,is_dummy_record
+REG-VLN-01001,Meridian BioLogistics,logistics_company,1996-01-15,active,Meridian Valenne Headquarters,Valenne Republic,International biological and cold-chain logistics,2025-03-31,False
+REG-VLN-01002,Asterion Clinical Institute,research_institute,1989-01-15,active,Asterion Central Clinical Campus,Valenne Republic,Private preventive-medicine and research institute,2025-03-31,False
+REG-TMB-01003,Northstar Cold Chain Services,logistics_company,1992-01-15,active,Northstar Tembara Cold-Chain Hub,Tembara Commonwealth,Refrigerated transport provider,2025-03-31,False
+REG-VLN-01004,Whitehaven Strategic Holdings,consulting_company,1987-01-15,active,Meridian Valenne Headquarters,Valenne Republic,Investment and consulting company,2025-03-31,False
+REG-VLN-01005,Valenne Industrial Futures Council,trade_association,1984-01-15,active,Valenne Central District,Valenne Republic,Industry-policy association,2025-03-31,False
+REG-VLN-01006,Vale Strategy Collective,consulting_company,2008-01-15,active,Vale Strategy Valenne Office,Valenne Republic,Climate and social-policy consultancy,2025-03-31,False
+REG-AVL-01007,Threshold Earth Observatory,research_institute,2011-01-15,active,Threshold Earth Avelora Laboratory,Avelora Federation,Environmental research organization,2025-03-31,False
+REG-VLN-01008,Common Ground Climate Forum,activist_organization,2013-01-15,active,Valenne Central District,Valenne Republic,Climate and economic-justice coalition,2025-03-31,False
+REG-AVL-01009,Pollinator Justice Network,activist_organization,2014-01-15,active,Eastern Avelora Agricultural Cluster,Avelora Federation,Agricultural and ecological advocacy group,2025-03-31,False
+REG-VLN-01010,Lantern Investigative Bureau,media_organization,2015-01-15,active,Valenne Central District,Valenne Republic,Independent journalism and research group,2025-03-31,False
+REG-NDH-01011,Earth Ledger Project,foundation,2014-01-15,active,Nordhaven Maritime District,Nordhaven Union,Corporate-transparency initiative,2025-03-31,False
+REG-NDH-01012,Helix Legal and Compliance,legal_organization,1993-01-15,active,Nordhaven Maritime District,Nordhaven Union,Legal and regulatory consultancy,2025-03-31,False
+REG-AVL-01013,Horizon Field Research Cooperative,research_institute,2002-01-15,active,Eastern Avelora Agricultural Cluster,Avelora Federation,Environmental contractor,2025-03-31,False
+REG-VLN-01014,Meridian–Asterion Foundation,foundation,2005-01-15,active,Valenne Central District,Valenne Republic,Public-health and conservation charity,2025-03-31,False
+REG-NDH-01015,Vann Maritime Advisory,consulting_company,1838-01-15,dissolved,Nordhaven Union,Nordhaven Union,Industrial and shipping advisory practice,1891-12-31,False
+REG-VLN-01016,Warden Medical Ventures,investment_company,1894-01-15,dissolved,Valenne Republic,Valenne Republic,Commercial and medical investment partnership,1948-12-31,False
+REG-NDH-01017,Vosmere Biotechnics,biotechnology_company,1951-01-15,dissolved,Nordhaven Union,Nordhaven Union,Biotechnology and transport company,1994-12-31,False
+REG-KNT-01018,Varlan Natural History Circle,research_institute,1883-01-15,dissolved,Kintara Republic,Kintara Republic,Natural-history correspondence society,1920-12-31,False
+REG-AVL-01019,Bell Conservation Survey,research_institute,1923-01-15,dissolved,Avelora Federation,Avelora Federation,Regional conservation survey,1966-12-31,False
+REG-VLN-01020,Marot Ecological Policy Office,consulting_company,1969-01-15,dissolved,Valenne Republic,Valenne Republic,Environmental-policy advisory office,2006-12-31,False
+REG-VLN-01021,Solvane Energy Group,energy_company,1972-01-15,active,Valenne Republic,Valenne Republic,Energy and infrastructure company,2025-03-31,False
+REG-NDH-01022,Nivren Maritime Logistics,logistics_company,1969-01-15,active,Nordhaven Union,Nordhaven Union,Commercial maritime logistics company,2025-03-31,False
+REG-VLN-01023,Ardena Capital Union,financial_institution,1982-01-15,active,Valenne Republic,Valenne Republic,Financial-services group,2025-03-31,False
+REG-KNT-01024,Belen Agro-Industries,agricultural_company,1975-01-15,active,Kintara Republic,Kintara Republic,Agricultural production and processing company,2025-03-31,False
+REG-AVL-20007,Entité non immatriculée (REG-AVL-20007),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-AVL-20012,Entité non immatriculée (REG-AVL-20012),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-AVL-20021,Entité non immatriculée (REG-AVL-20021),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-AVL-20022,Entité non immatriculée (REG-AVL-20022),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-AVL-20030,Entité non immatriculée (REG-AVL-20030),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-AVL-20036,Entité non immatriculée (REG-AVL-20036),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-AVL-20041,Entité non immatriculée (REG-AVL-20041),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-KNT-20006,Entité non immatriculée (REG-KNT-20006),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-KNT-20014,Entité non immatriculée (REG-KNT-20014),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-KNT-20020,Entité non immatriculée (REG-KNT-20020),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-KNT-20025,Entité non immatriculée (REG-KNT-20025),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-KNT-20032,Entité non immatriculée (REG-KNT-20032),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-KNT-20037,Entité non immatriculée (REG-KNT-20037),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-NDH-20008,Entité non immatriculée (REG-NDH-20008),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-NDH-20039,Entité non immatriculée (REG-NDH-20039),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-NDH-20042,Entité non immatriculée (REG-NDH-20042),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-TMB-20010,Entité non immatriculée (REG-TMB-20010),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-TMB-20013,Entité non immatriculée (REG-TMB-20013),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-TMB-20027,Entité non immatriculée (REG-TMB-20027),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-TMB-20031,Entité non immatriculée (REG-TMB-20031),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-VLN-20001,Entité non immatriculée (REG-VLN-20001),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-VLN-20003,Entité non immatriculée (REG-VLN-20003),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-VLN-20004,Entité non immatriculée (REG-VLN-20004),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-VLN-20009,Entité non immatriculée (REG-VLN-20009),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-VLN-20015,Entité non immatriculée (REG-VLN-20015),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-VLN-20016,Entité non immatriculée (REG-VLN-20016),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-VLN-20028,Entité non immatriculée (REG-VLN-20028),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
+REG-VLN-20035,Entité non immatriculée (REG-VLN-20035),Inconnu,,non_enregistre,Inconnu,Inconnu,Inconnu,,True
