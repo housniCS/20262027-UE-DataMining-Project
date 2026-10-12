@@ -1,54 +1,54 @@
-license_number,professional_name,profession,specialty,license_issue_date,license_expiry_date,license_status,primary_facility_license,registered_region,disciplinary_status
-LIC-VLN-MED-1001,Emil Warden,physician,cardiology,1895-07-01,,active,FAC-VLN-101,Valennan,none
-LIC-VLN-MED-1002,Dr. Naima Orrel,physician,preventive medicine,2002-07-01,,active,FAC-VLN-101,Valennan,none
-LIC-VLN-MED-1003,Dr. Corin Hale,physician,cardiac imaging,2002-07-01,,active,FAC-AVL-201,Valennan,none
-LIC-VLN-MED-1004,Dr. Lysa Quen,physician,medical audit,1995-07-01,,active,FAC-VLN-101,Valennan,none
-LIC-VLN-MED-1005,Faris Uren,physician,cardiology,1986-07-01,,active,FAC-VLN-101,Valennan,none
-LIC-VLN-MED-1006,Farah Havel,physician,occupational medicine,2026-07-01,,active,FAC-AVL-201,Valennan,none
-LIC-KNT-RES-1007,J. Varlan,research professional,ecological analytics,1886-07-01,,active,FAC-AVL-301,Kintaran,none
-LIC-AVL-RES-1008,Jonah Bell,research professional,public policy research,1924-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-VLN-ENV-1009,Julien Marot,environmental professional,wildlife monitoring,1970-07-01,,active,FAC-AVL-301,Valennan,none
-LIC-AVL-ENV-1010,Ilyan Rho,environmental professional,pollinator ecology,2003-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-VLN-RES-1011,Mara Venn,research professional,clinical research,2006-07-01,,active,FAC-AVL-301,Valennan,none
-LIC-AVL-RES-1012,Selene Aras,research professional,clinical research,2009-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-AVL-ADM-1013,Elira Vaun,public administration professional,programme administration,1965-07-01,,active,,Aveloran,none
-LIC-NDH-LEG-1014,Tomas Pell,legal professional,regulatory compliance,1998-07-01,,active,,Nordhaven,none
-LIC-AVL-RES-1015,Anika Dren,research professional,public policy research,2006-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-VLN-RES-1016,Daria Zaven,physician,general medicine,1990-07-01,,active,FAC-VLN-101,Valennan,none
-LIC-KNT-ADM-1017,Liora Maren,public administration professional,programme administration,2017-07-01,,active,,Kintaran,resolved administrative review
-LIC-TMB-ADM-1018,Calen Uren,public administration professional,programme administration,2007-07-01,,active,,Tembaran,none
-LIC-AVL-ENV-1019,Nadia Istra,environmental professional,environmental assessment,1995-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-AVL-ENV-1020,Doran Wessen,environmental professional,wildlife monitoring,1996-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-NDH-LEG-1021,Bela Ferran,legal professional,regulatory compliance,2020-07-01,,active,,Nordhaven,none
-LIC-VLN-ADM-1022,Ilia Perin,public administration professional,programme administration,1992-07-01,,active,,Valennan,none
-LIC-AVL-RES-1023,Jora Vela,research professional,public policy research,2006-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-KNT-ADM-1024,Xara Lask,public administration professional,programme administration,1997-07-01,,active,,Kintaran,none
-LIC-TMB-ADM-1025,Liora Corda,public administration professional,programme administration,2014-07-01,,active,,Tembaran,none
-LIC-KNT-ADM-1026,Petra Grell,public administration professional,programme administration,2005-07-01,,active,,Kintaran,none
-LIC-TMB-ADM-1027,Doran Maren,public administration professional,programme administration,01/07/1994,,active,,Tembaran,none
-LIC-AVL-ENV-1028,Calen Jaren,environmental professional,environmental assessment,1999-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-AVL-ENV-1029,Farah Norel,environmental professional,environmental assessment,1989-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-NDH-LEG-1030,Orin Kerin,legal professional,regulatory compliance,1988-07-01,,active,,Nordhaven,none
-LIC-VLN-ADM-1031,Bela Wessen,public administration professional,programme administration,2016-07-01,,active,,Valennan,none
-LIC-AVL-RES-1032,Zalia Dalen,research professional,public policy research,2014-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-KNT-ADM-1033,Jalen Elen,public administration professional,programme administration,2001-07-01,,active,,Kintaran,none
-LIC-TMB-ADM-1034,Jalen Quorin,public administration professional,programme administration,2013-07-01,,active,,Tembaran,resolved administrative review
-LIC-KNT-ADM-1035,Marek Kerin,public administration professional,programme administration,2021-07-01,,active,,Kintaran,none
-LIC-TMB-ADM-1036,Halen Wessen,public administration professional,programme administration,2002-07-01,,active,,Tembaran,none
-LIC-AVL-ENV-1037,Liora Uren,environmental professional,  environmental  assessment ,2004-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-AVL-ENV-1038,Amina Elen,environmental professional,wildlife monitoring,1988-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-NDH-LEG-1039,Pavel Waren,legal professional,regulatory compliance,2011-07-01,,active,,Nordhaven,none
-LIC-VLN-ADM-1040,Kira Elen,public administration professional,programme administration,2010-07-01,,active,,Valennan,none
-LIC-AVL-RES-1041,Doran Norel,research professional,public policy research,2012-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-KNT-ADM-1042,Kellan Orell,public administration professional,programme administration,2015-07-01,,active,,Kintaran,none
-LIC-TMB-ADM-1043,Sena Grell,public administration professional,programme administration,2003-07-01,,active,,Tembaran,none
-LIC-VLN-RES-1044,Ravin Palen,physician,clinical physiology,1995-07-01,,active,FAC-VLN-101,Valennan,none
-LIC-KNT-ADM-1045,Bela Waren,public administration professional,programme administration,1994-07-01,,active,,Kintaran,none
-LIC-TMB-ADM-1046,Farah Ferran,public administration professional,programme administration,2006-07-01,,active,,Tembaran,none
-LIC-AVL-ENV-1047,Jalen Zorin,environmental professional,environmental assessment,2008-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-AVL-ENV-1048,Vera Waren,environmental professional,environmental assessment,1991-07-01,,active,FAC-AVL-301,Aveloran,none
-LIC-NDH-LEG-1049,Daria Garen,legal professional,regulatory compliance,2000-07-01,,active,,Nordhaven,none
-LIC-VLN-ADM-1050,Jalen Havel,public administration professional,programme administration,1984-07-01,,active,,Valennan,none
-LIC-AVL-RES-1051,Uma Wessen,research professional,public policy research,2015-07-01,,active,FAC-AVL-301,Aveloran,resolved administrative review
-LIC-KNT-ADM-1052,Daria Maren,public administration professional,programme administration,2001-07-01,,active,,Kintaran,none
-LIC-TMB-ADM-1053,Petra Koral,public administration professional,programme administration,2005-07-01,,active,,Tembaran,none
+license_number,professional_name,profession,specialty,license_issue_date,license_status,primary_facility_license,registered_region,disciplinary_status,title,professional_name_clean,primary_facility_license_filled
+LIC-VLN-MED-1001,Emil Warden,physician,cardiology,1895-07-01,active,FAC-VLN-101,Valennan,none,,Emil Warden,FAC-VLN-101
+LIC-VLN-MED-1002,Dr. Naima Orrel,physician,preventive medicine,2002-07-01,active,FAC-VLN-101,Valennan,none,Dr.,Naima Orrel,FAC-VLN-101
+LIC-VLN-MED-1003,Dr. Corin Hale,physician,cardiac imaging,2002-07-01,active,FAC-AVL-201,Valennan,none,Dr.,Corin Hale,FAC-AVL-201
+LIC-VLN-MED-1004,Dr. Lysa Quen,physician,medical audit,1995-07-01,active,FAC-VLN-101,Valennan,none,Dr.,Lysa Quen,FAC-VLN-101
+LIC-VLN-MED-1005,Faris Uren,physician,cardiology,1986-07-01,active,FAC-VLN-101,Valennan,none,,Faris Uren,FAC-VLN-101
+LIC-VLN-MED-1006,Farah Havel,physician,occupational medicine,2026-07-01,active,FAC-AVL-201,Valennan,none,,Farah Havel,FAC-AVL-201
+LIC-KNT-RES-1007,J. Varlan,research professional,ecological analytics,1886-07-01,active,FAC-AVL-301,Kintaran,none,,J. Varlan,FAC-AVL-301
+LIC-AVL-RES-1008,Jonah Bell,research professional,public policy research,1924-07-01,active,FAC-AVL-301,Aveloran,none,,Jonah Bell,FAC-AVL-301
+LIC-VLN-ENV-1009,Julien Marot,environmental professional,wildlife monitoring,1970-07-01,active,FAC-AVL-301,Valennan,none,,Julien Marot,FAC-AVL-301
+LIC-AVL-ENV-1010,Ilyan Rho,environmental professional,pollinator ecology,2003-07-01,active,FAC-AVL-301,Aveloran,none,,Ilyan Rho,FAC-AVL-301
+LIC-VLN-RES-1011,Mara Venn,research professional,clinical research,2006-07-01,active,FAC-AVL-301,Valennan,none,,Mara Venn,FAC-AVL-301
+LIC-AVL-RES-1012,Selene Aras,research professional,clinical research,2009-07-01,active,FAC-AVL-301,Aveloran,none,,Selene Aras,FAC-AVL-301
+LIC-AVL-ADM-1013,Elira Vaun,public administration professional,programme administration,1965-07-01,active,,Aveloran,none,,Elira Vaun,NON_RATTACHE
+LIC-NDH-LEG-1014,Tomas Pell,legal professional,regulatory compliance,1998-07-01,active,,Nordhaven,none,,Tomas Pell,NON_RATTACHE
+LIC-AVL-RES-1015,Anika Dren,research professional,public policy research,2006-07-01,active,FAC-AVL-301,Aveloran,none,,Anika Dren,FAC-AVL-301
+LIC-VLN-RES-1016,Daria Zaven,physician,general medicine,1990-07-01,active,FAC-VLN-101,Valennan,none,,Daria Zaven,FAC-VLN-101
+LIC-KNT-ADM-1017,Liora Maren,public administration professional,programme administration,2017-07-01,active,,Kintaran,resolved administrative review,,Liora Maren,NON_RATTACHE
+LIC-TMB-ADM-1018,Calen Uren,public administration professional,programme administration,2007-07-01,active,,Tembaran,none,,Calen Uren,NON_RATTACHE
+LIC-AVL-ENV-1019,Nadia Istra,environmental professional,environmental assessment,1995-07-01,active,FAC-AVL-301,Aveloran,none,,Nadia Istra,FAC-AVL-301
+LIC-AVL-ENV-1020,Doran Wessen,environmental professional,wildlife monitoring,1996-07-01,active,FAC-AVL-301,Aveloran,none,,Doran Wessen,FAC-AVL-301
+LIC-NDH-LEG-1021,Bela Ferran,legal professional,regulatory compliance,2020-07-01,active,,Nordhaven,none,,Bela Ferran,NON_RATTACHE
+LIC-VLN-ADM-1022,Ilia Perin,public administration professional,programme administration,1992-07-01,active,,Valennan,none,,Ilia Perin,NON_RATTACHE
+LIC-AVL-RES-1023,Jora Vela,research professional,public policy research,2006-07-01,active,FAC-AVL-301,Aveloran,none,,Jora Vela,FAC-AVL-301
+LIC-KNT-ADM-1024,Xara Lask,public administration professional,programme administration,1997-07-01,active,,Kintaran,none,,Xara Lask,NON_RATTACHE
+LIC-TMB-ADM-1025,Liora Corda,public administration professional,programme administration,2014-07-01,active,,Tembaran,none,,Liora Corda,NON_RATTACHE
+LIC-KNT-ADM-1026,Petra Grell,public administration professional,programme administration,2005-07-01,active,,Kintaran,none,,Petra Grell,NON_RATTACHE
+LIC-TMB-ADM-1027,Doran Maren,public administration professional,programme administration,1994-01-07,active,,Tembaran,none,,Doran Maren,NON_RATTACHE
+LIC-AVL-ENV-1028,Calen Jaren,environmental professional,environmental assessment,1999-07-01,active,FAC-AVL-301,Aveloran,none,,Calen Jaren,FAC-AVL-301
+LIC-AVL-ENV-1029,Farah Norel,environmental professional,environmental assessment,1989-07-01,active,FAC-AVL-301,Aveloran,none,,Farah Norel,FAC-AVL-301
+LIC-NDH-LEG-1030,Orin Kerin,legal professional,regulatory compliance,1988-07-01,active,,Nordhaven,none,,Orin Kerin,NON_RATTACHE
+LIC-VLN-ADM-1031,Bela Wessen,public administration professional,programme administration,2016-07-01,active,,Valennan,none,,Bela Wessen,NON_RATTACHE
+LIC-AVL-RES-1032,Zalia Dalen,research professional,public policy research,2014-07-01,active,FAC-AVL-301,Aveloran,none,,Zalia Dalen,FAC-AVL-301
+LIC-KNT-ADM-1033,Jalen Elen,public administration professional,programme administration,2001-07-01,active,,Kintaran,none,,Jalen Elen,NON_RATTACHE
+LIC-TMB-ADM-1034,Jalen Quorin,public administration professional,programme administration,2013-07-01,active,,Tembaran,resolved administrative review,,Jalen Quorin,NON_RATTACHE
+LIC-KNT-ADM-1035,Marek Kerin,public administration professional,programme administration,2021-07-01,active,,Kintaran,none,,Marek Kerin,NON_RATTACHE
+LIC-TMB-ADM-1036,Halen Wessen,public administration professional,programme administration,2002-07-01,active,,Tembaran,none,,Halen Wessen,NON_RATTACHE
+LIC-AVL-ENV-1037,Liora Uren,environmental professional,environmental assessment,2004-07-01,active,FAC-AVL-301,Aveloran,none,,Liora Uren,FAC-AVL-301
+LIC-AVL-ENV-1038,Amina Elen,environmental professional,wildlife monitoring,1988-07-01,active,FAC-AVL-301,Aveloran,none,,Amina Elen,FAC-AVL-301
+LIC-NDH-LEG-1039,Pavel Waren,legal professional,regulatory compliance,2011-07-01,active,,Nordhaven,none,,Pavel Waren,NON_RATTACHE
+LIC-VLN-ADM-1040,Kira Elen,public administration professional,programme administration,2010-07-01,active,,Valennan,none,,Kira Elen,NON_RATTACHE
+LIC-AVL-RES-1041,Doran Norel,research professional,public policy research,2012-07-01,active,FAC-AVL-301,Aveloran,none,,Doran Norel,FAC-AVL-301
+LIC-KNT-ADM-1042,Kellan Orell,public administration professional,programme administration,2015-07-01,active,,Kintaran,none,,Kellan Orell,NON_RATTACHE
+LIC-TMB-ADM-1043,Sena Grell,public administration professional,programme administration,2003-07-01,active,,Tembaran,none,,Sena Grell,NON_RATTACHE
+LIC-VLN-RES-1044,Ravin Palen,physician,clinical physiology,1995-07-01,active,FAC-VLN-101,Valennan,none,,Ravin Palen,FAC-VLN-101
+LIC-KNT-ADM-1045,Bela Waren,public administration professional,programme administration,1994-07-01,active,,Kintaran,none,,Bela Waren,NON_RATTACHE
+LIC-TMB-ADM-1046,Farah Ferran,public administration professional,programme administration,2006-07-01,active,,Tembaran,none,,Farah Ferran,NON_RATTACHE
+LIC-AVL-ENV-1047,Jalen Zorin,environmental professional,environmental assessment,2008-07-01,active,FAC-AVL-301,Aveloran,none,,Jalen Zorin,FAC-AVL-301
+LIC-AVL-ENV-1048,Vera Waren,environmental professional,environmental assessment,1991-07-01,active,FAC-AVL-301,Aveloran,none,,Vera Waren,FAC-AVL-301
+LIC-NDH-LEG-1049,Daria Garen,legal professional,regulatory compliance,2000-07-01,active,,Nordhaven,none,,Daria Garen,NON_RATTACHE
+LIC-VLN-ADM-1050,Jalen Havel,public administration professional,programme administration,1984-07-01,active,,Valennan,none,,Jalen Havel,NON_RATTACHE
+LIC-AVL-RES-1051,Uma Wessen,research professional,public policy research,2015-07-01,active,FAC-AVL-301,Aveloran,resolved administrative review,,Uma Wessen,FAC-AVL-301
+LIC-KNT-ADM-1052,Daria Maren,public administration professional,programme administration,2001-07-01,active,,Kintaran,none,,Daria Maren,NON_RATTACHE
+LIC-TMB-ADM-1053,Petra Koral,public administration professional,programme administration,2005-07-01,active,,Tembaran,none,,Petra Koral,NON_RATTACHE

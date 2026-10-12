@@ -1,63 +1,63 @@
-appointment_record_id,appointing_jurisdiction,office_holder_name,recorded_birth_year,office_title,institution_name,appointment_start,appointment_end,appointment_basis,departure_reason,official_region,source_notice_reference
-APT-000001,Aveloran,Ilyan Rho,1975,Regional pollinator and agricultural technical adviser,Avelora Agricultural Resilience Agency,2003-01-01,,appointed,,Aveloran,NOTICE-AVL-2003-0002
-APT-000002,Kintaran,Amara Senn,1980,Cave-access programme manager,Kintara Cave and Pollinator Authority,2005-01-01,,appointed,,Kintaran,NOTICE-KNT-2005-0003
-APT-000003,Kintaran,Leora Kassen,1947,Head of government of Kintara Republic,Office of the Kintara Chancellor,1978-01-01,,appointed,,Kintaran,NOTICE-KNT-1978-0004
-APT-000004,Aveloran,Tavian Serat,1953,Senior minister of the Avelora Federation,Avelora Ministry of Strategic Resources,1984-01-01,,appointed,,Aveloran,NOTICE-AVL-1984-0005
-APT-000005,Tembaran,Mirek Talven,1942,Regional governor in the Tembara Commonwealth,Tembara Coastal Administration,01/01/1974,,appointed,,Tembaran,NOTICE-TMB-1974-0006
-APT-000006,Aveloran,Elira Vaun,,Retired political intermediary and former council president,Avelora Council of State,1965-01-01,2021-09-18,appointed,deceased,Aveloran,NOTICE-AVL-1965-0007
-APT-000007,Valennan,Dr. Lysa Quen,1968,Senior medical auditor,Orison Medical Audit Board,1995-01-01,,appointed,,Valennan,NOTICE-VLN-1995-0008
-APT-000008,Kintaran,Leora Kassen,1947,Minister for Rural Development,Kintara Cave and Pollinator Authority,1978-04-01,1987-10-31,appointed,role_transition,Kintaran,NOTICE-KNT-1978-0009
-APT-000009,Kintaran,Leora Kassen,1947,Cabinet coordinator,Office of the Kintara Chancellor,1988-01-15,1999-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-1988-0010
-APT-000010,Aveloran,Tavian Serat,1953,Agricultural policy secretary,Avelora Agricultural Resilience Agency,1984-02-01,1994-05-31,appointed,role_transition,Aveloran,NOTICE-AVL-1984-0011
-APT-000011,Aveloran,Tavian Serat,1953,Deputy minister,Avelora Ministry of Strategic Resources,1994-06-01,2005-01-31,appointed,role_transition,Aveloran,NOTICE-AVL-1994-0012
-APT-000012,Tembaran,Mirek Talven,1942,Coastal biodiversity commissioner,Tembara Biodiversity Service,1974-08-01,1989-12-31,appointed,role_transition,Tembaran,NOTICE-TMB-1974-0013
-APT-000013,Tembaran,Mirek Talven,,Deputy regional governor,Tembara Coastal Administration,1990-01-01,1999-12-31,appointed,role_transition,Tembaran,NOTICE-TMB-1990-0014
-APT-000014,Kintaran,Rayan Belen,1952,Agricultural programme director,Avelora Agricultural Resilience Agency,1981-01-01,1992-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-1981-0015
-APT-000015,Aveloran,Elira Vaun,1935,State council secretary,Avelora Council of State,1965-05-01,1979-12-31,appointed,role_transition,Aveloran,NOTICE-AVL-1965-0016
-APT-000016,Aveloran,Elira Vaun,1935,Council president,Avelora Council of State,1980-01-01,1998-12-31,appointed,role_transition,Aveloran,NOTICE-AVL-1980-0017
-APT-000017,Kintaran,Liora Maren,1987,Wildlife programme officer,Kintara Cave and Pollinator Authority,2017-01-01,,appointed,,Kintaran,NOTICE-KNT-2017-0018
-APT-000018,Aveloran,Yana Garen,1959,Pollination programme specialist,Avelora Agricultural Resilience Agency,1990-01-01,,appointed,,Aveloran,NOTICE-AVL-1990-0019
-APT-000019,Tembaran,Calen Uren,1983,Biodiversity programme officer,Tembara Biodiversity Service,2007-01-01,,appointed,,Tembaran,NOTICE-TMB-2007-0020
-APT-000020,Valennan,Nora Yorin,,Programme manager,Orison Medical Audit Board,2015-01-01,2018-12-31,appointed,role_transition,Valennan,NOTICE-VLN-2015-0021
-APT-000021,Valennan,Yorin Serin,1962,Deputy director,Avelora Ministry of Strategic Resources,1986-01-01,1989-12-31,appointed,role_transition,Valennan,NOTICE-VLN-1986-0022
-APT-000022,Valennan,Ilia Perin,1967,Accreditation officer,Orison Medical Audit Board,1992-01-01,,appointed,,Valennan,NOTICE-VLN-1992-0023
-APT-000023,Kintaran,Xara Lask,1968,Senior executive-office official,Office of the Kintara Chancellor,1997-01-01,2018-12-31,appointed,retired,Kintaran,NOTICE-KNT-1997-0024
-APT-000024,Kintaran,Xara Lask,1968,Operations manager,Avelora Council of State,1992-01-01,1996-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-1992-0025
-APT-000025,Aveloran,Doran Uren,1992,Deputy minister,Avelora Ministry of Strategic Resources,2018-01-01,,appointed,,Aveloran,NOTICE-AVL-2018-0026
-APT-000026,Tembaran,Liora Corda,1990,Regional administrative director,Tembara Coastal Administration,2013-01-01,,appointed,,Tembaran,NOTICE-TMB-2013-0027
-APT-000027,Kintaran,Faris Quell,,Regional adviser,Avelora Agricultural Resilience Agency,1999-01-01,2007-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-1999-0028
-APT-000028,Aveloran,Alina Wessen,1962,Council vice-president,Avelora Council of State,1992-01-01,,appointed,,Aveloran,NOTICE-AVL-1992-0029
-APT-000029,Kintaran,Petra Grell,1971,Wildlife programme officer,Kintara Cave and Pollinator Authority,2005-01-01,,appointed,,Kintaran,NOTICE-KNT-2005-0030
-APT-000030,Aveloran,Jora Boras,1971,Pollination programme specialist,Avelora Agricultural Resilience Agency,1998-01-01,,appointed,,Aveloran,NOTICE-AVL-1998-0031
-APT-000031,Tembaran,Doran Maren,1966,Biodiversity programme officer,Tembara Biodiversity Service,1994-01-01,,appointed,,Tembaran,NOTICE-TMB-1994-0032
-APT-000032,Valennan,Miran Lorin,1987,Regional adviser,Orison Medical Audit Board,2011-01-01,2011-12-31,appointed,role_transition,Valennan,NOTICE-VLN-2011-0033
-APT-000033,Valennan,Xara Orell,1978,Regional adviser,Avelora Ministry of Strategic Resources,2002-01-01,2011-12-31,appointed,role_transition,Valennan,NOTICE-VLN-2002-0034
-APT-000034,Valennan,Bela Wessen,,Accreditation officer,Orison Medical Audit Board,2016-01-01,,appointed,,Valennan,NOTICE-VLN-2016-0035
-APT-000035,Kintaran,Jalen Elen,1972,Senior executive-office official,Office of the Kintara Chancellor,2001-01-01,,appointed,,Kintaran,NOTICE-KNT-2001-0036
-APT-000036,Kintaran,Jalen Elen,1972,Deputy director,Avelora Council of State,1996-01-01,2000-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-1996-0037
-APT-000037,Aveloran,Orin Jaren,1961,Deputy minister,Avelora Ministry of Strategic Resources,1992-01-01,2003-12-31,appointed,retired,Aveloran,NOTICE-AVL-1992-0038
-APT-000038,Tembaran,Jalen Quorin,1989,Regional administrative director,Tembara Coastal Administration,2012-01-01,,appointed,,Tembaran,NOTICE-TMB-2012-0039
-APT-000039,Kintaran,Orin Kassen,1979,Programme manager,Avelora Agricultural Resilience Agency,2003-01-01,2007-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-2003-0040
-APT-000040,Aveloran,Uma Uren,1966,Council vice-president,Avelora Council of State,1995-01-01,,appointed,,Aveloran,NOTICE-AVL-1995-0041
-APT-000041,Kintaran,Marek Kerin,,Wildlife programme officer,Kintara Cave and Pollinator Authority,2021-01-01,,appointed,,Kintaran,NOTICE-KNT-2021-0042
-APT-000042,Aveloran,Varen Orell,1973,Pollination programme specialist,Avelora Agricultural Resilience Agency,2004-01-01,,appointed,,Aveloran,NOTICE-AVL-2004-0043
-APT-000043,Tembaran,Halen Wessen,1974,Biodiversity programme officer,Tembara Biodiversity Service,2002-01-01,,appointed,,Tembaran,NOTICE-TMB-2002-0044
-APT-000044,Valennan,Doran Orsen,1982,Programme manager,Orison Medical Audit Board,2006-01-01,2013-12-31,appointed,role_transition,Valennan,NOTICE-VLN-2006-0045
-APT-000045,Valennan,Taren Norel,1978,Senior analyst,  Avelora  Ministry  of  Strategic  Resources ,2002-01-01,2010-12-31,appointed,role_transition,Valennan,NOTICE-VLN-2002-0046
-APT-000046,Valennan,Kira Elen,1983,Accreditation officer,Orison Medical Audit Board,2010-01-01,,appointed,,Valennan,NOTICE-VLN-2010-0047
-APT-000047,Kintaran,Kellan Orell,1989,Senior executive-office official,Office of the Kintara Chancellor,2015-01-01,,appointed,,Kintaran,NOTICE-KNT-2015-0048
-APT-000048,Kintaran,Kellan Orell,,Programme manager,Avelora Council of State,2013-01-01,2014-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-2013-0049
-APT-000049,Aveloran,Zalia Maren,1947,Deputy minister,Avelora Ministry of Strategic Resources,1980-01-01,,appointed,,Aveloran,NOTICE-AVL-1980-0050
-APT-000050,Tembaran,Sena Grell,1970,Regional administrative director,Tembara Coastal Administration,2003-01-01,2013-12-31,appointed,retired,Tembaran,NOTICE-TMB-2003-0051
-APT-000051,Kintaran,Ravin Essen,1978,Deputy director,Avelora Agricultural Resilience Agency,2002-01-01,2008-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-2002-0052
-APT-000052,Aveloran,Yorin Garen,1962,Council vice-president,Avelora Council of State,1986-01-01,,appointed,,Aveloran,NOTICE-AVL-1986-0053
-APT-000053,Kintaran,Bela Waren,1966,Wildlife programme officer,Kintara Cave and Pollinator Authority,1994-01-01,,appointed,,Kintaran,NOTICE-KNT-1994-0054
-APT-000054,Aveloran,Jora Zaven,1993,Pollination programme specialist,Avelora Agricultural Resilience Agency,2018-01-01,,appointed,,Aveloran,NOTICE-AVL-2018-0055
-APT-000055,Tembaran,Farah Ferran,,Biodiversity programme officer,Tembara Biodiversity Service,2006-01-01,,appointed,,Tembaran,NOTICE-TMB-2006-0056
-APT-000056,Valennan,Olia Aren,1971,Regional adviser,Orison Medical Audit Board,1995-01-01,2004-12-31,appointed,role_transition,Valennan,NOTICE-VLN-1995-0057
-APT-000057,Valennan,Elian Cevan,1992,Senior analyst,Avelora Ministry of Strategic Resources,2016-01-01,2024-12-31,appointed,role_transition,Valennan,NOTICE-VLN-2016-0058
-APT-000058,Valennan,Jalen Havel,1960,Accreditation officer,Orison Medical Audit Board,1983-01-01,,appointed,,Valennan,NOTICE-VLN-1983-0059
-APT-000059,Kintaran,Daria Maren,1972,Senior executive-office official,Office of the Kintara Chancellor,2001-01-01,,appointed,,Kintaran,NOTICE-KNT-2001-0060
-APT-000060,Kintaran,Daria Maren,1972,Deputy director,Avelora Council of State,1996-01-01,2000-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-1996-0061
-APT-000061,Aveloran,Hana Wessen,1967,Deputy minister,Avelora Ministry of Strategic Resources,1994-01-01,,appointed,,Aveloran,NOTICE-AVL-1994-0062
-APT-000062,Tembaran,Petra Koral,,Regional administrative director,Tembara Coastal Administration,2005-01-01,,appointed,,Tembaran,NOTICE-TMB-2005-0063
+appointment_record_id,appointing_jurisdiction,office_holder_name,recorded_birth_year,office_title,institution_name,appointment_start,appointment_end,appointment_basis,departure_reason,official_region,source_notice_reference,is_active_appointment
+APT-000001,Aveloran,Ilyan Rho,1975,Regional pollinator and agricultural technical adviser,Avelora Agricultural Resilience Agency,2003-01-01,,appointed,,Aveloran,NOTICE-AVL-2003-0002,True
+APT-000002,Kintaran,Amara Senn,1980,Cave-access programme manager,Kintara Cave and Pollinator Authority,2005-01-01,,appointed,,Kintaran,NOTICE-KNT-2005-0003,True
+APT-000003,Kintaran,Leora Kassen,1947,Head of government of Kintara Republic,Office of the Kintara Chancellor,1978-01-01,,appointed,,Kintaran,NOTICE-KNT-1978-0004,True
+APT-000004,Aveloran,Tavian Serat,1953,Senior minister of the Avelora Federation,Avelora Ministry of Strategic Resources,1984-01-01,,appointed,,Aveloran,NOTICE-AVL-1984-0005,True
+APT-000005,Tembaran,Mirek Talven,1942,Regional governor in the Tembara Commonwealth,Tembara Coastal Administration,1974-01-01,,appointed,,Tembaran,NOTICE-TMB-1974-0006,True
+APT-000006,Aveloran,Elira Vaun,,Retired political intermediary and former council president,Avelora Council of State,1965-01-01,2021-09-18,appointed,deceased,Aveloran,NOTICE-AVL-1965-0007,False
+APT-000007,Valennan,Dr. Lysa Quen,1968,Senior medical auditor,Orison Medical Audit Board,1995-01-01,,appointed,,Valennan,NOTICE-VLN-1995-0008,True
+APT-000008,Kintaran,Leora Kassen,1947,Minister for Rural Development,Kintara Cave and Pollinator Authority,1978-04-01,1987-10-31,appointed,role_transition,Kintaran,NOTICE-KNT-1978-0009,False
+APT-000009,Kintaran,Leora Kassen,1947,Cabinet coordinator,Office of the Kintara Chancellor,1988-01-15,1999-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-1988-0010,False
+APT-000010,Aveloran,Tavian Serat,1953,Agricultural policy secretary,Avelora Agricultural Resilience Agency,1984-02-01,1994-05-31,appointed,role_transition,Aveloran,NOTICE-AVL-1984-0011,False
+APT-000011,Aveloran,Tavian Serat,1953,Deputy minister,Avelora Ministry of Strategic Resources,1994-06-01,2005-01-31,appointed,role_transition,Aveloran,NOTICE-AVL-1994-0012,False
+APT-000012,Tembaran,Mirek Talven,1942,Coastal biodiversity commissioner,Tembara Biodiversity Service,1974-08-01,1989-12-31,appointed,role_transition,Tembaran,NOTICE-TMB-1974-0013,False
+APT-000013,Tembaran,Mirek Talven,,Deputy regional governor,Tembara Coastal Administration,1990-01-01,1999-12-31,appointed,role_transition,Tembaran,NOTICE-TMB-1990-0014,False
+APT-000014,Kintaran,Rayan Belen,1952,Agricultural programme director,Avelora Agricultural Resilience Agency,1981-01-01,1992-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-1981-0015,False
+APT-000015,Aveloran,Elira Vaun,1935,State council secretary,Avelora Council of State,1965-05-01,1979-12-31,appointed,role_transition,Aveloran,NOTICE-AVL-1965-0016,False
+APT-000016,Aveloran,Elira Vaun,1935,Council president,Avelora Council of State,1980-01-01,1998-12-31,appointed,role_transition,Aveloran,NOTICE-AVL-1980-0017,False
+APT-000017,Kintaran,Liora Maren,1987,Wildlife programme officer,Kintara Cave and Pollinator Authority,2017-01-01,,appointed,,Kintaran,NOTICE-KNT-2017-0018,True
+APT-000018,Aveloran,Yana Garen,1959,Pollination programme specialist,Avelora Agricultural Resilience Agency,1990-01-01,,appointed,,Aveloran,NOTICE-AVL-1990-0019,True
+APT-000019,Tembaran,Calen Uren,1983,Biodiversity programme officer,Tembara Biodiversity Service,2007-01-01,,appointed,,Tembaran,NOTICE-TMB-2007-0020,True
+APT-000020,Valennan,Nora Yorin,,Programme manager,Orison Medical Audit Board,2015-01-01,2018-12-31,appointed,role_transition,Valennan,NOTICE-VLN-2015-0021,False
+APT-000021,Valennan,Yorin Serin,1962,Deputy director,Avelora Ministry of Strategic Resources,1986-01-01,1989-12-31,appointed,role_transition,Valennan,NOTICE-VLN-1986-0022,False
+APT-000022,Valennan,Ilia Perin,1967,Accreditation officer,Orison Medical Audit Board,1992-01-01,,appointed,,Valennan,NOTICE-VLN-1992-0023,True
+APT-000023,Kintaran,Xara Lask,1968,Senior executive-office official,Office of the Kintara Chancellor,1997-01-01,2018-12-31,appointed,retired,Kintaran,NOTICE-KNT-1997-0024,False
+APT-000024,Kintaran,Xara Lask,1968,Operations manager,Avelora Council of State,1992-01-01,1996-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-1992-0025,False
+APT-000025,Aveloran,Doran Uren,1992,Deputy minister,Avelora Ministry of Strategic Resources,2018-01-01,,appointed,,Aveloran,NOTICE-AVL-2018-0026,True
+APT-000026,Tembaran,Liora Corda,1990,Regional administrative director,Tembara Coastal Administration,2013-01-01,,appointed,,Tembaran,NOTICE-TMB-2013-0027,True
+APT-000027,Kintaran,Faris Quell,,Regional adviser,Avelora Agricultural Resilience Agency,1999-01-01,2007-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-1999-0028,False
+APT-000028,Aveloran,Alina Wessen,1962,Council vice-president,Avelora Council of State,1992-01-01,,appointed,,Aveloran,NOTICE-AVL-1992-0029,True
+APT-000029,Kintaran,Petra Grell,1971,Wildlife programme officer,Kintara Cave and Pollinator Authority,2005-01-01,,appointed,,Kintaran,NOTICE-KNT-2005-0030,True
+APT-000030,Aveloran,Jora Boras,1971,Pollination programme specialist,Avelora Agricultural Resilience Agency,1998-01-01,,appointed,,Aveloran,NOTICE-AVL-1998-0031,True
+APT-000031,Tembaran,Doran Maren,1966,Biodiversity programme officer,Tembara Biodiversity Service,1994-01-01,,appointed,,Tembaran,NOTICE-TMB-1994-0032,True
+APT-000032,Valennan,Miran Lorin,1987,Regional adviser,Orison Medical Audit Board,2011-01-01,2011-12-31,appointed,role_transition,Valennan,NOTICE-VLN-2011-0033,False
+APT-000033,Valennan,Xara Orell,1978,Regional adviser,Avelora Ministry of Strategic Resources,2002-01-01,2011-12-31,appointed,role_transition,Valennan,NOTICE-VLN-2002-0034,False
+APT-000034,Valennan,Bela Wessen,,Accreditation officer,Orison Medical Audit Board,2016-01-01,,appointed,,Valennan,NOTICE-VLN-2016-0035,True
+APT-000035,Kintaran,Jalen Elen,1972,Senior executive-office official,Office of the Kintara Chancellor,2001-01-01,,appointed,,Kintaran,NOTICE-KNT-2001-0036,True
+APT-000036,Kintaran,Jalen Elen,1972,Deputy director,Avelora Council of State,1996-01-01,2000-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-1996-0037,False
+APT-000037,Aveloran,Orin Jaren,1961,Deputy minister,Avelora Ministry of Strategic Resources,1992-01-01,2003-12-31,appointed,retired,Aveloran,NOTICE-AVL-1992-0038,False
+APT-000038,Tembaran,Jalen Quorin,1989,Regional administrative director,Tembara Coastal Administration,2012-01-01,,appointed,,Tembaran,NOTICE-TMB-2012-0039,True
+APT-000039,Kintaran,Orin Kassen,1979,Programme manager,Avelora Agricultural Resilience Agency,2003-01-01,2007-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-2003-0040,False
+APT-000040,Aveloran,Uma Uren,1966,Council vice-president,Avelora Council of State,1995-01-01,,appointed,,Aveloran,NOTICE-AVL-1995-0041,True
+APT-000041,Kintaran,Marek Kerin,,Wildlife programme officer,Kintara Cave and Pollinator Authority,2021-01-01,,appointed,,Kintaran,NOTICE-KNT-2021-0042,True
+APT-000042,Aveloran,Varen Orell,1973,Pollination programme specialist,Avelora Agricultural Resilience Agency,2004-01-01,,appointed,,Aveloran,NOTICE-AVL-2004-0043,True
+APT-000043,Tembaran,Halen Wessen,1974,Biodiversity programme officer,Tembara Biodiversity Service,2002-01-01,,appointed,,Tembaran,NOTICE-TMB-2002-0044,True
+APT-000044,Valennan,Doran Orsen,1982,Programme manager,Orison Medical Audit Board,2006-01-01,2013-12-31,appointed,role_transition,Valennan,NOTICE-VLN-2006-0045,False
+APT-000045,Valennan,Taren Norel,1978,Senior analyst,Avelora Ministry of Strategic Resources,2002-01-01,2010-12-31,appointed,role_transition,Valennan,NOTICE-VLN-2002-0046,False
+APT-000046,Valennan,Kira Elen,1983,Accreditation officer,Orison Medical Audit Board,2010-01-01,,appointed,,Valennan,NOTICE-VLN-2010-0047,True
+APT-000047,Kintaran,Kellan Orell,1989,Senior executive-office official,Office of the Kintara Chancellor,2015-01-01,,appointed,,Kintaran,NOTICE-KNT-2015-0048,True
+APT-000048,Kintaran,Kellan Orell,,Programme manager,Avelora Council of State,2013-01-01,2014-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-2013-0049,False
+APT-000049,Aveloran,Zalia Maren,1947,Deputy minister,Avelora Ministry of Strategic Resources,1980-01-01,,appointed,,Aveloran,NOTICE-AVL-1980-0050,True
+APT-000050,Tembaran,Sena Grell,1970,Regional administrative director,Tembara Coastal Administration,2003-01-01,2013-12-31,appointed,retired,Tembaran,NOTICE-TMB-2003-0051,False
+APT-000051,Kintaran,Ravin Essen,1978,Deputy director,Avelora Agricultural Resilience Agency,2002-01-01,2008-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-2002-0052,False
+APT-000052,Aveloran,Yorin Garen,1962,Council vice-president,Avelora Council of State,1986-01-01,,appointed,,Aveloran,NOTICE-AVL-1986-0053,True
+APT-000053,Kintaran,Bela Waren,1966,Wildlife programme officer,Kintara Cave and Pollinator Authority,1994-01-01,,appointed,,Kintaran,NOTICE-KNT-1994-0054,True
+APT-000054,Aveloran,Jora Zaven,1993,Pollination programme specialist,Avelora Agricultural Resilience Agency,2018-01-01,,appointed,,Aveloran,NOTICE-AVL-2018-0055,True
+APT-000055,Tembaran,Farah Ferran,,Biodiversity programme officer,Tembara Biodiversity Service,2006-01-01,,appointed,,Tembaran,NOTICE-TMB-2006-0056,True
+APT-000056,Valennan,Olia Aren,1971,Regional adviser,Orison Medical Audit Board,1995-01-01,2004-12-31,appointed,role_transition,Valennan,NOTICE-VLN-1995-0057,False
+APT-000057,Valennan,Elian Cevan,1992,Senior analyst,Avelora Ministry of Strategic Resources,2016-01-01,2024-12-31,appointed,role_transition,Valennan,NOTICE-VLN-2016-0058,False
+APT-000058,Valennan,Jalen Havel,1960,Accreditation officer,Orison Medical Audit Board,1983-01-01,,appointed,,Valennan,NOTICE-VLN-1983-0059,True
+APT-000059,Kintaran,Daria Maren,1972,Senior executive-office official,Office of the Kintara Chancellor,2001-01-01,,appointed,,Kintaran,NOTICE-KNT-2001-0060,True
+APT-000060,Kintaran,Daria Maren,1972,Deputy director,Avelora Council of State,1996-01-01,2000-12-31,appointed,role_transition,Kintaran,NOTICE-KNT-1996-0061,False
+APT-000061,Aveloran,Hana Wessen,1967,Deputy minister,Avelora Ministry of Strategic Resources,1994-01-01,,appointed,,Aveloran,NOTICE-AVL-1994-0062,True
+APT-000062,Tembaran,Petra Koral,,Regional administrative director,Tembara Coastal Administration,2005-01-01,,appointed,,Tembaran,NOTICE-TMB-2005-0063,True
